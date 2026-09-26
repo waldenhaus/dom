@@ -1,8 +1,8 @@
 ﻿Показатель,Вариант_A_м2,Вариант_B_м2,База
-Дом,94.3296,94.3296,"Control-boundary areas, not finished usable areas, statutory floor areas, foundation quantities or active UFH areas."
-Лаундж,41.16,41.16,"Control-boundary areas, not finished usable areas, statutory floor areas, foundation quantities or active UFH areas."
-Тёплый контур,135.4896,142.3536,"Control-boundary areas, not finished usable areas, statutory floor areas, foundation quantities or active UFH areas."
-Открытый северный навес,30.674,23.810,"Control-boundary areas, not finished usable areas, statutory floor areas, foundation quantities or active UFH areas."
-Все открытые настилы,59.774,52.910,"Control-boundary areas, not finished usable areas, statutory floor areas, foundation quantities or active UFH areas."
-Техпомещение по граничному контуру,0,6.864,Proposal not selected
-Техпомещение внутри при резерве стен,0,4.52,Provisional; not finished usable area
+Дом,94.3296,94.3296,Площади по граничным контурам; чистовая полезная площадь не определена
+Лаундж,41.16,41.16,Площади по граничным контурам; чистовая полезная площадь не определена
+Тёплый контур,135.4896,142.3536,Площади по граничным контурам; чистовая полезная площадь не определена
+Открытый северный навес,30.674,23.810,Площади по граничным контурам; чистовая полезная площадь не определена
+Все открытые настилы,59.774,52.910,Площади по граничным контурам; чистовая полезная площадь не определена
+Техпомещение по граничному контуру,0,6.864,Предложение; вариант не выбран
+Техпомещение внутри при резерве стен,0,4.52,Условный резерв; не чистовая площадь
