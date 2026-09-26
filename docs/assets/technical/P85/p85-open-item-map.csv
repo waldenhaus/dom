@@ -1,0 +1,22 @@
+source_open_item_id,source_status,source_name_ru,card_id,card_title_ru,handoff_id,resolution_status,client_approved
+P84-E-OPEN-005,CONFLICT,SW01 — привязка/доступ HOLD,P85-D-01,Вход: один понятный блок управления,,OPEN_PRESERVED,False
+P84-E-OPEN-006,CONFLICT,SW06 — привязка/доступ HOLD,P85-D-02,Гостевой С/У: узкий простенок 150 мм,,OPEN_PRESERVED,False
+P84-E-OPEN-007,CONFLICT,SW07 — привязка/доступ HOLD,P85-D-03,Мастер С/У: перенести клавишу на правый простенок,,OPEN_PRESERVED,False
+P84-E-OPEN-001,CONFLICT,P15 — привязка/доступ HOLD,P85-D-04,Спальни: убрать точки с узкой двери и фасада шкафа,,OPEN_PRESERVED,False
+P84-E-OPEN-008,CONFLICT,SW11 — привязка/доступ HOLD,P85-D-04,Спальни: убрать точки с узкой двери и фасада шкафа,,OPEN_PRESERVED,False
+P84-E-OPEN-002,CONFLICT,P21 — привязка/доступ HOLD,P85-D-05,Мокрые помещения: доступные подключения,,OPEN_PRESERVED,False
+P84-E-OPEN-003,CONFLICT,P27 — привязка/доступ HOLD,P85-D-05,Мокрые помещения: доступные подключения,,OPEN_PRESERVED,False
+P84-E-OPEN-014,BLOCKING_TBC,"Мокрые помещения, лаундж и наружные точки",P85-D-05,Мокрые помещения: доступные подключения,,OPEN_PRESERVED,False
+P84-E-OPEN-004,CONFLICT,P30 — привязка/доступ HOLD,P85-D-06,Лаундж: освободить узкий участок у столешницы,,OPEN_PRESERVED,False
+P84-E-OPEN-009,CONFLICT,SW16 — привязка/доступ HOLD,P85-D-06,Лаундж: освободить узкий участок у столешницы,,OPEN_PRESERVED,False
+P84-E-OPEN-012,BLOCKING_TBC,Монтажные высоты и поверхности не утверждены,P85-D-07,У кроватей: одинаковая понятная схема,,OPEN_PRESERVED,False
+P84-E-OPEN-018,BLOCKING_TBC,Прикроватные блоки и бра: нет габаритов тумб по высоте,P85-D-07,У кроватей: одинаковая понятная схема,,OPEN_PRESERVED,False
+P84-E-OPEN-021,TBC,У нового северного дивана нет местной зарядной точки,P85-D-08,Северный диван: нужна ли местная зарядка,,OPEN_PRESERVED,False
+P84-E-OPEN-010,BLOCKING_TBC,Потолочная схема P79 объединяет несколько прежних функций,P85-D-09,Свет: принять понятные сцены и местное управление,,OPEN_PRESERVED,False
+P84-E-OPEN-020,BLOCKING_TBC,Сцены P84: согласовать исправленную логику и аппаратуру,P85-D-09,Свет: принять понятные сцены и местное управление,,OPEN_PRESERVED,False
+P84-E-OPEN-011,BLOCKING_TBC,"Ввод, щит, цепи и защиты не рассчитаны",P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-01,OPEN_PRESERVED,False
+P84-E-OPEN-013,BLOCKING_TBC,Коридоры не являются полной разводкой,P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-02,OPEN_PRESERVED,False
+P84-E-OPEN-015,BLOCKING_TBC,"P83: термостаты, UFH, насосы и сезонный лаундж",P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-03,OPEN_PRESERVED,False
+P84-E-OPEN-016,BLOCKING_TBC,ICT/датчики/систем безопасности: объём и независимые питания TBC,P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-04,OPEN_PRESERVED,False
+P84-E-OPEN-017,BLOCKING_TBC,Lightning/EV/PV/battery/backup — applicability TBC,P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-05,OPEN_PRESERVED,False
+P84-E-OPEN-019,BLOCKING_TBC,P83 радиаторы и варианты гостиной: пересечения после выбора,P85-D-10,Инженерные задания: что нужно после выбора мест,P85-TH-06,OPEN_PRESERVED,False

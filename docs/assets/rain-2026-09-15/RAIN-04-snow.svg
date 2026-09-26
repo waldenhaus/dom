@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 1680 1188" role="img">
+<title>Снег · основной скат и навес</title>
+<desc>DBR-P11. Размеры в миллиметрах. Площади по геометрии P81, согласованной с P89. Для согласования.</desc>
+<rect width="1680" height="1188" fill="#fffdf8"/>
+<text x="64.00" y="57.00" font-family="Arial, sans-serif" font-size="17" fill="#697066" text-anchor="start" font-weight="600">ДОМ У ВОДЫ / DBR—P11</text>
+<text x="64.00" y="104.00" font-family="Arial, sans-serif" font-size="34" fill="#303832" text-anchor="start" font-weight="600">Снег · основной скат и навес</text>
+<text x="64.00" y="137.00" font-family="Arial, sans-serif" font-size="17" fill="#697066" text-anchor="start" font-weight="400">Направление уклона и зоны расчёта. Схема не назначает снеговую нагрузку, сечения или безопасный сход.</text>
+<line x1="64.00" y1="160.00" x2="1616.00" y2="160.00" stroke="#d6d7cd" stroke-width="1"/>
+<polygon points="100.00,280.00 350.00,400.00 350.00,427.00 100.00,307.00" fill="#555e5b" stroke="#303832" stroke-width="1"/>
+<rect x="310.00" y="425.00" width="46.00" height="410.00" fill="#d0cbbb" stroke="none" stroke-width="1"/>
+<polygon points="356.00,520.00 1115.00,587.00 1115.00,636.00 356.00,569.00" fill="#c6a777" stroke="#303832" stroke-width="1"/>
+<line x1="356.00" y1="516.00" x2="1115.00" y2="583.00" stroke="#277c91" stroke-width="5"/>
+<line x1="356.00" y1="573.00" x2="1115.00" y2="640.00" stroke="#ae8452" stroke-width="9"/>
+<polygon points="356.00,516.00 356.00,435.00 445.00,453.00 605.00,538.00" fill="#e2ebed" stroke="#277c91" stroke-width="1"/>
+<line x1="285.00" y1="369.00" x2="309.00" y2="330.00" stroke="#ad613e" stroke-width="5"/>
+<line x1="298.00" y1="332.00" x2="332.00" y2="349.00" stroke="#ad613e" stroke-width="4"/>
+<text x="80.00" y="230.00" font-family="Arial, sans-serif" font-size="20" fill="#303832" text-anchor="start" font-weight="600">ОСНОВНОЙ СКАТ</text>
+<text x="405.00" y="392.00" font-family="Arial, sans-serif" font-size="17" fill="#277c91" text-anchor="start" font-weight="400">Снеговой мешок у перепада — расчёт</text>
+<text x="365.00" y="489.00" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="start" font-weight="600">ВЫСОКИЙ КРАЙ</text>
+<text x="885.00" y="563.00" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="start" font-weight="600">НИЗКИЙ КРАЙ</text>
+<line x1="665.00" y1="461.00" x2="1075.00" y2="498.00" stroke="#277c91" stroke-width="2"/>
+<polygon points="1075.00,498.00 1064.68,501.09 1065.40,493.12" fill="#277c91" stroke="#277c91" stroke-width="1"/>
+<text x="810.00" y="443.00" font-family="Arial, sans-serif" font-size="20" fill="#277c91" text-anchor="middle" font-weight="600">УКЛОН ОТ ДОМА НАРУЖУ</text>
+<rect x="1116.00" y="570.00" width="65.00" height="59.00" fill="#d4dedc" stroke="#303832" stroke-width="2"/>
+<line x1="1115.00" y1="583.00" x2="1129.00" y2="611.00" stroke="#277c91" stroke-width="3"/>
+<line x1="1129.00" y1="611.00" x2="1162.00" y2="611.00" stroke="#277c91" stroke-width="3"/>
+<line x1="1162.00" y1="611.00" x2="1162.00" y2="814.00" stroke="#277c91" stroke-width="9"/>
+<line x1="1162.00" y1="711.00" x2="1162.00" y2="786.00" stroke="#277c91" stroke-width="2"/>
+<polygon points="1162.00,786.00 1158.00,776.00 1166.00,776.00" fill="#277c91" stroke="#277c91" stroke-width="1"/>
+<text x="867.00" y="835.00" font-family="Arial, sans-serif" font-size="17" fill="#277c91" text-anchor="start" font-weight="400">Скрытый водосток → ливнёвка</text>
+<line x1="285.00" y1="337.00" x2="178.00" y2="624.00" stroke="#697066" stroke-width="1"/>
+<text x="80.00" y="663.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="600">Снегозадержание верхнего ската:</text>
+<text x="80.00" y="689.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">система, ряды и крепления по расчёту.</text>
+<text x="80.00" y="715.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Не отменяет снеговой мешок на навесе.</text>
+<text x="80.00" y="810.00" font-family="Arial, sans-serif" font-size="17" fill="#303832" text-anchor="start" font-weight="600">ПРОВЕРИТЬ ЦЕПЬ НАГРУЗКИ</text>
+<text x="80.00" y="840.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Покрытие → основание → балки → опоры → фундамент.</text>
+<text x="1230.00" y="241.00" font-family="Arial, sans-serif" font-size="20" fill="#303832" text-anchor="start" font-weight="600">РАСЧЁТНЫЕ СЛУЧАИ</text>
+<text x="1230.00" y="286.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Снег по всей площади навеса.</text>
+<text x="1230.00" y="324.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Неравномерное накопление.</text>
+<text x="1230.00" y="362.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Перенос у стены и дымохода.</text>
+<text x="1230.00" y="400.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Сход / падение с крыши выше.</text>
+<text x="1230.00" y="438.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Нагрузки на снегозадержатели.</text>
+<text x="1230.00" y="476.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Прогиб с сохранением уклона.</text>
+<text x="1230.00" y="514.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Лёд, вода и забитый водосток.</text>
+<text x="1230.00" y="595.00" font-family="Arial, sans-serif" font-size="20" fill="#ad613e" text-anchor="start" font-weight="600">НЕ НАЗНАЧЕНО</text>
+<text x="1230.00" y="637.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Снег для точного участка.</text>
+<text x="1230.00" y="672.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Коэффициенты по нормам РБ.</text>
+<text x="1230.00" y="707.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Реакции, балки и крепления.</text>
+<text x="1230.00" y="742.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Окончательный угол навеса.</text>
+<text x="1230.00" y="777.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Зона безопасного схода.</text>
+<text x="110.00" y="930.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Уклон от дома принят как направление. Сценарий 2% = 98 мм на 4 900 мм относится к воде, а не к сходу снега.</text>
+<text x="110.00" y="964.00" font-family="Arial, sans-serif" font-size="16" fill="#ad613e" text-anchor="start" font-weight="400">Снижение нагрузки из-за ожидаемого таяния или сползания НЕ принято. Нельзя планировать сход на двери и проходы.</text>
+<text x="110.00" y="998.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Источник принципа: PNNL, Managing Snow Loads on Roofs and Decks, разделы Building topology / Sliding snow.</text>
+<text x="110.00" y="1030.00" font-family="Arial, sans-serif" font-size="16" fill="#697066" text-anchor="start" font-weight="400">Зарубежный справочный источник; численные нормы и коэффициенты для Беларуси из него не заимствованы.</text>
+<line x1="64.00" y1="1094.00" x2="1616.00" y2="1094.00" stroke="#c7c9c0" stroke-width="1"/>
+<text x="64.00" y="1127.00" font-family="Arial, sans-serif" font-size="15" fill="#697066" text-anchor="start" font-weight="400">Плановые контуры P89 · концепция ливнёвки · 15.09.2026</text>
+<text x="64.00" y="1153.00" font-family="Arial, sans-serif" font-size="15" fill="#697066" text-anchor="start" font-weight="400">Номинальные размеры модели; отделка и изделия уточняются. Не для строительства.</text>
+<text x="1616.00" y="1127.00" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="end" font-weight="400">RAIN-04 / WEB-RAIN-15.09/R2 · Принципиальная схема, NTS</text>
+<text x="1616.00" y="1153.00" font-family="Arial, sans-serif" font-size="13" fill="#697066" text-anchor="end" font-weight="400">Автор: Codex · проверка и утверждение специалистом: не выполнены</text>
+</svg>

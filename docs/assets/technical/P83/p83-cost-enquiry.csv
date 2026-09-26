@@ -1,0 +1,17 @@
+﻿package_id,scope_ru,quantity_basis_required,quantity,unit,unit_rate,amount,currency,tax_basis,delivery,installation,supplier,quote_date,valid_until,lead_time,exclusions,source_revision,status
+C01,"Геодезия, ограничения, согласования",verified survey and project route,,,,,,,,,,,,,,P83,NOT_PRICED
+C02,Подготовка участка и водоотвод,approved site/grading plan,,,,,,,,,,,,,,P83,NOT_PRICED
+C03,Фундамент дома и террас,structural reactions and geotechnical model,,,,,,,,,,,,,,P83,NOT_PRICED
+C04,"Каркас, стены и перекрытия",engineered member and connector schedule,,,,,,,,,,,,,,P83,NOT_PRICED
+C05,"Крыша дома, навес, свод",roof build-ups structural sizing drainage,,,,,,,,,,,,,,P83,NOT_PRICED
+C06,"Окна, двери, панорамное и сезонное стекло",window schedule and selected products,,,,,,,,,,,,,,P83,NOT_PRICED
+C07,"Фасады, утепление, герметичность",approved envelope build-ups,,,,,,,,,,,,,,P83,NOT_PRICED
+C08,Чистовая отделка и столярные изделия,finish quantities and specifications,,,,,,,,,,,,,,P83,NOT_PRICED
+C09,Отопление и вентиляция,P83 heating concept plus calculated HVAC design,,,,,,,,,,,,,,P83,NOT_PRICED
+C10,"Вода, канализация и техоборудование",selected250L storage and services design,,,,,,,,,,,,,,P83,NOT_PRICED
+C11,"Электрика, свет, слаботочные системы",supply conditions and load/protection design,,,,,,,,,,,,,,P83,NOT_PRICED
+C12,"Печь, дымоход и наружная готовка",selected appliances and fire/structural coordination,,,,,,,,,,,,,,P83,NOT_PRICED
+C13,Лаундж и террасы,coordinated structure glazing floors drainage,,,,,,,,,,,,,,P83,NOT_PRICED
+C14,Мебель и техника,P81 inventory57 items and selected products,,,,,,,,,,,,,,P83,NOT_PRICED
+C15,"Доставка, монтаж, налоги, пусконаладка",quote scope and region,,,,,,,,,,,,,,P83,NOT_PRICED
+C16,Резерв и неучтённые работы,risk review after scope and prices,,,,,,,,,,,,,,P83,NOT_PRICED

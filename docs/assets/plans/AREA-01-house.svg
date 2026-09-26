@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 1680 1188" role="img">
+<title>Дом · размеры и площади</title>
+<desc>DBR-P11. Размеры в миллиметрах. Площади по геометрии P81, согласованной с P89. Для согласования.</desc>
+<rect width="1680" height="1188" fill="#fffdf8"/>
+<text x="64.00" y="57.00" font-family="Arial, sans-serif" font-size="17" fill="#697066" text-anchor="start" font-weight="600">ДОМ У ВОДЫ / DBR—P11</text>
+<text x="64.00" y="104.00" font-family="Arial, sans-serif" font-size="34" fill="#303832" text-anchor="start" font-weight="600">Дом · размеры и площади</text>
+<text x="64.00" y="137.00" font-family="Arial, sans-serif" font-size="17" fill="#697066" text-anchor="start" font-weight="400">Общий размерный план и экспликация помещений. Север сверху, озеро слева.</text>
+<line x1="64.00" y1="160.00" x2="1616.00" y2="160.00" stroke="#d6d7cd" stroke-width="1"/>
+<polygon id="P26-A-R01" data-room-id="P26-A-R01" points="190.00,297.00 642.80,297.00 642.80,581.80 446.00,581.80 446.00,885.80 190.00,885.80" fill="#e9e1d2" stroke="none" stroke-width="1"/>
+<polygon id="P26-A-HALL" data-room-id="P26-A-HALL" points="658.80,297.00 778.80,297.00 778.80,460.20 818.80,460.20 818.80,581.80 658.80,581.80" fill="#e8e9e2" stroke="none" stroke-width="1"/>
+<polygon id="P26-A-R02" data-room-id="P26-A-R02" points="794.80,297.00 1050.80,297.00 1050.80,444.20 794.80,444.20" fill="#e0e7e4" stroke="none" stroke-width="1"/>
+<polygon id="P26-A-R03" data-room-id="P26-A-R03" points="834.80,460.20 1050.80,460.20 1050.80,581.80 834.80,581.80" fill="#e0e7e4" stroke="none" stroke-width="1"/>
+<polygon id="P26-A-R04" data-room-id="P26-A-R04" points="726.00,597.80 1050.80,597.80 1050.80,885.80 726.00,885.80" fill="#dfdccf" stroke="none" stroke-width="1"/>
+<polygon id="P26-A-R05" data-room-id="P26-A-R05" points="462.00,597.80 710.00,597.80 710.00,885.80 462.00,885.80" fill="#e8e0d4" stroke="none" stroke-width="1"/>
+<rect x="158.00" y="265.00" width="924.80" height="32.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="1050.80" y="297.00" width="32.00" height="588.80" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="158.00" y="885.80" width="924.80" height="32.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="158.00" y="297.00" width="32.00" height="588.80" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="642.80" y="297.00" width="16.00" height="190.40" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="446.00" y="581.80" width="604.80" height="16.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="446.00" y="581.80" width="16.00" height="304.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="710.00" y="597.80" width="16.00" height="288.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="834.80" y="444.20" width="216.00" height="16.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="778.80" y="297.00" width="16.00" height="147.20" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="778.80" y="444.20" width="56.00" height="16.00" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="818.80" y="460.20" width="16.00" height="121.60" fill="#303832" stroke="none" stroke-width="1"/>
+<rect x="278.00" y="265.00" width="96.00" height="32.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="278.00" y1="281.00" x2="374.00" y2="281.00" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="518.00" y="265.00" width="96.00" height="32.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="518.00" y1="281.00" x2="614.00" y2="281.00" stroke="#637b78" stroke-width="2"/>
+<rect x="706.80" y="265.00" width="72.00" height="32.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="706.80" y1="281.00" x2="778.80" y2="281.00" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="1050.80" y="298.60" width="32.00" height="64.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="1066.80" y1="298.60" x2="1066.80" y2="362.60" stroke="#637b78" stroke-width="2"/>
+<rect x="1050.80" y="511.40" width="32.00" height="64.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="1066.80" y1="511.40" x2="1066.80" y2="575.40" stroke="#637b78" stroke-width="2"/>
+<rect x="502.00" y="885.80" width="128.00" height="32.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="502.00" y1="901.80" x2="630.00" y2="901.80" stroke="#637b78" stroke-width="2"/>
+<rect x="770.80" y="885.80" width="128.00" height="32.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="770.80" y1="901.80" x2="898.80" y2="901.80" stroke="#637b78" stroke-width="2"/>
+<rect x="158.00" y="317.00" width="32.00" height="536.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="174.00" y1="317.00" x2="174.00" y2="853.00" stroke="#637b78" stroke-width="2"/>
+<rect x="642.80" y="487.40" width="16.00" height="94.40" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<rect x="778.80" y="309.00" width="16.00" height="72.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="786.80" y1="309.00" x2="786.80" y2="381.00" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="741.20" y="581.80" width="72.00" height="16.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="741.20" y1="589.80" x2="813.20" y2="589.80" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="894.80" y="581.80" width="72.00" height="16.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="894.80" y1="589.80" x2="966.80" y2="589.80" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="617.20" y="581.80" width="72.00" height="16.00" fill="#fffdf8" stroke="none" stroke-width="1"/>
+<line x1="617.20" y1="589.80" x2="689.20" y2="589.80" stroke="#9a9e94" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="387.60" y="385.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Кухня · столовая</text>
+<text x="387.60" y="407.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">гостиная</text>
+<text x="387.60" y="442.00" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">32,31 м²</text>
+<text x="726.00" y="511.40" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Прихожая</text>
+<text x="726.00" y="533.40" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">хранение</text>
+<text x="726.00" y="568.40" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">6,10 м²</text>
+<text x="922.80" y="353.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Гостевой с/у</text>
+<text x="922.80" y="375.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">постирочная</text>
+<text x="922.80" y="410.00" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">5,89 м²</text>
+<text x="942.80" y="504.20" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Хозяйский с/у</text>
+<text x="942.80" y="539.20" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">4,10 м²</text>
+<text x="874.80" y="725.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Хозяйская</text>
+<text x="874.80" y="747.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">спальня</text>
+<text x="874.80" y="782.00" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">14,62 м²</text>
+<text x="586.00" y="725.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">Спальня 2</text>
+<text x="586.00" y="760.00" font-family="Arial, sans-serif" font-size="26" fill="#303832" text-anchor="middle" font-weight="600">11,16 м²</text>
+<line x1="158.00" y1="265.00" x2="158.00" y2="195.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="265.00" x2="1082.80" y2="195.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="158.00" y1="200.00" x2="1082.80" y2="200.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="155.00" y1="203.00" x2="161.00" y2="197.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1079.80" y1="203.00" x2="1085.80" y2="197.00" stroke="#697066" stroke-width="1.4"/>
+<text x="620.40" y="191.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400">11 560</text>
+<line x1="1082.80" y1="265.00" x2="1135.80" y2="265.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="917.80" x2="1135.80" y2="917.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1130.80" y1="265.00" x2="1130.80" y2="917.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1127.80" y1="268.00" x2="1133.80" y2="262.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1127.80" y1="920.80" x2="1133.80" y2="914.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1151.80" y="591.40" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1151.8000000000002 591.4000000000001)">8 160</text>
+<line x1="158.00" y1="265.00" x2="158.00" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="265.00" x2="190.00" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="158.00" y1="239.00" x2="190.00" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="155.00" y1="242.00" x2="161.00" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="187.00" y1="242.00" x2="193.00" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="174.00" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">400</text>
+<line x1="190.00" y1="265.00" x2="190.00" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="642.80" y1="265.00" x2="642.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="239.00" x2="642.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="187.00" y1="242.00" x2="193.00" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="639.80" y1="242.00" x2="645.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="416.40" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">5660</text>
+<line x1="642.80" y1="265.00" x2="642.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="658.80" y1="265.00" x2="658.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="642.80" y1="239.00" x2="658.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="639.80" y1="242.00" x2="645.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="655.80" y1="242.00" x2="661.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="650.80" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">200</text>
+<line x1="658.80" y1="265.00" x2="658.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="778.80" y1="265.00" x2="778.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="658.80" y1="239.00" x2="778.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="655.80" y1="242.00" x2="661.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="775.80" y1="242.00" x2="781.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="718.80" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">1500</text>
+<line x1="778.80" y1="265.00" x2="778.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="794.80" y1="265.00" x2="794.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="778.80" y1="239.00" x2="794.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="775.80" y1="242.00" x2="781.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="791.80" y1="242.00" x2="797.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="786.80" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">200</text>
+<line x1="794.80" y1="265.00" x2="794.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1050.80" y1="265.00" x2="1050.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="794.80" y1="239.00" x2="1050.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="791.80" y1="242.00" x2="797.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1047.80" y1="242.00" x2="1053.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="922.80" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">3200</text>
+<line x1="1050.80" y1="265.00" x2="1050.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="265.00" x2="1082.80" y2="234.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1050.80" y1="239.00" x2="1082.80" y2="239.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1047.80" y1="242.00" x2="1053.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1079.80" y1="242.00" x2="1085.80" y2="236.00" stroke="#697066" stroke-width="1.4"/>
+<text x="1066.80" y="230.00" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">400</text>
+<line x1="158.00" y1="917.80" x2="158.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="917.80" x2="190.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="158.00" y1="951.80" x2="190.00" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="155.00" y1="954.80" x2="161.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="187.00" y1="954.80" x2="193.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="174.00" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">400</text>
+<line x1="190.00" y1="917.80" x2="190.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="446.00" y1="917.80" x2="446.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="951.80" x2="446.00" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="187.00" y1="954.80" x2="193.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="443.00" y1="954.80" x2="449.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="318.00" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">3200</text>
+<line x1="446.00" y1="917.80" x2="446.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="462.00" y1="917.80" x2="462.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="446.00" y1="951.80" x2="462.00" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="443.00" y1="954.80" x2="449.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="459.00" y1="954.80" x2="465.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="454.00" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">200</text>
+<line x1="462.00" y1="917.80" x2="462.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="710.00" y1="917.80" x2="710.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="462.00" y1="951.80" x2="710.00" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="459.00" y1="954.80" x2="465.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="707.00" y1="954.80" x2="713.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="586.00" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">3100</text>
+<line x1="710.00" y1="917.80" x2="710.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="726.00" y1="917.80" x2="726.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="710.00" y1="951.80" x2="726.00" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="707.00" y1="954.80" x2="713.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="723.00" y1="954.80" x2="729.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="718.00" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">200</text>
+<line x1="726.00" y1="917.80" x2="726.00" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1050.80" y1="917.80" x2="1050.80" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="726.00" y1="951.80" x2="1050.80" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="723.00" y1="954.80" x2="729.00" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="1047.80" y1="954.80" x2="1053.80" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="888.40" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">4060</text>
+<line x1="1050.80" y1="917.80" x2="1050.80" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="917.80" x2="1082.80" y2="946.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1050.80" y1="951.80" x2="1082.80" y2="951.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1047.80" y1="954.80" x2="1053.80" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="1079.80" y1="954.80" x2="1085.80" y2="948.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1066.80" y="942.80" font-family="Arial, sans-serif" font-size="14" fill="#303832" text-anchor="middle" font-weight="400">400</text>
+<line x1="1082.80" y1="265.00" x2="1108.80" y2="265.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="297.00" x2="1108.80" y2="297.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="265.00" x2="1103.80" y2="297.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="268.00" x2="1106.80" y2="262.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="300.00" x2="1106.80" y2="294.00" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="281.00" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 281.0)">400</text>
+<line x1="1082.80" y1="297.00" x2="1108.80" y2="297.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="444.20" x2="1108.80" y2="444.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="297.00" x2="1103.80" y2="444.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="300.00" x2="1106.80" y2="294.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="447.20" x2="1106.80" y2="441.20" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="370.60" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 370.6)">1840</text>
+<line x1="1082.80" y1="444.20" x2="1108.80" y2="444.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="460.20" x2="1108.80" y2="460.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="444.20" x2="1103.80" y2="460.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="447.20" x2="1106.80" y2="441.20" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="463.20" x2="1106.80" y2="457.20" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="452.20" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 452.20000000000005)">200</text>
+<line x1="1082.80" y1="460.20" x2="1108.80" y2="460.20" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="581.80" x2="1108.80" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="460.20" x2="1103.80" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="463.20" x2="1106.80" y2="457.20" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="584.80" x2="1106.80" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="521.00" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 521.0)">1520</text>
+<line x1="1082.80" y1="581.80" x2="1108.80" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="597.80" x2="1108.80" y2="597.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="581.80" x2="1103.80" y2="597.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="584.80" x2="1106.80" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="600.80" x2="1106.80" y2="594.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="589.80" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 589.8)">200</text>
+<line x1="1082.80" y1="597.80" x2="1108.80" y2="597.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="885.80" x2="1108.80" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="597.80" x2="1103.80" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="600.80" x2="1106.80" y2="594.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="888.80" x2="1106.80" y2="882.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="741.80" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 741.8)">3600</text>
+<line x1="1082.80" y1="885.80" x2="1108.80" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1082.80" y1="917.80" x2="1108.80" y2="917.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1103.80" y1="885.80" x2="1103.80" y2="917.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="1100.80" y1="888.80" x2="1106.80" y2="882.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="1100.80" y1="920.80" x2="1106.80" y2="914.80" stroke="#697066" stroke-width="1.4"/>
+<text x="1119.80" y="901.80" font-family="Arial, sans-serif" font-size="13" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 1119.8000000000002 901.8000000000001)">400</text>
+<line x1="190.00" y1="297.00" x2="255.00" y2="297.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="885.80" x2="255.00" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="250.00" y1="297.00" x2="250.00" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="247.00" y1="300.00" x2="253.00" y2="294.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="247.00" y1="888.80" x2="253.00" y2="882.80" stroke="#697066" stroke-width="1.4"/>
+<text x="269.00" y="591.40" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 269.0 591.4000000000001)">7 360</text>
+<line x1="190.00" y1="297.00" x2="222.00" y2="297.00" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="581.80" x2="222.00" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="217.00" y1="297.00" x2="217.00" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="214.00" y1="300.00" x2="220.00" y2="294.00" stroke="#697066" stroke-width="1.4"/>
+<line x1="214.00" y1="584.80" x2="220.00" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<text x="235.00" y="439.40" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 235.0 439.4)">3 560</text>
+<line x1="190.00" y1="581.80" x2="222.00" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="885.80" x2="222.00" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="217.00" y1="581.80" x2="217.00" y2="885.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="214.00" y1="584.80" x2="220.00" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="214.00" y1="888.80" x2="220.00" y2="882.80" stroke="#697066" stroke-width="1.4"/>
+<text x="235.00" y="733.80" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="middle" font-weight="400" transform="rotate(-90 235.0 733.8)">3 800</text>
+<line x1="190.00" y1="581.80" x2="190.00" y2="576.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="446.00" y1="581.80" x2="446.00" y2="576.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="190.00" y1="581.80" x2="446.00" y2="581.80" stroke="#9c9e94" stroke-width="1"/>
+<line x1="187.00" y1="584.80" x2="193.00" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<line x1="443.00" y1="584.80" x2="449.00" y2="578.80" stroke="#697066" stroke-width="1.4"/>
+<text x="318.00" y="572.80" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="middle" font-weight="400">3 200</text>
+<text x="112.00" y="213.00" font-family="Arial, sans-serif" font-size="18" fill="#303832" text-anchor="middle" font-weight="600">С</text>
+<line x1="112.00" y1="254.00" x2="112.00" y2="224.00" stroke="#303832" stroke-width="2"/>
+<polygon points="107.00,228.00 112.00,216.00 117.00,228.00" fill="#303832" stroke="#303832" stroke-width="1"/>
+<text x="35.00" y="610.00" font-family="Arial, sans-serif" font-size="14" fill="#697066" text-anchor="start" font-weight="400" transform="rotate(-90 35 610)">ОЗЕРО / ЗАПАД</text>
+<text x="1162.00" y="228.00" font-family="Arial, sans-serif" font-size="16" fill="#697066" text-anchor="start" font-weight="600">ПОМЕЩЕНИЯ</text>
+<rect x="1162.00" y="256.00" width="15.00" height="15.00" fill="#e9e1d2" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="272.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Кухня, столовая, гостиная</text>
+<text x="1598.00" y="297.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">32,31 м²</text>
+<line x1="1162.00" y1="311.00" x2="1604.00" y2="311.00" stroke="#dedfd7" stroke-width="1"/>
+<rect x="1162.00" y="337.00" width="15.00" height="15.00" fill="#e8e9e2" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="353.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Прихожая и хранение</text>
+<text x="1598.00" y="378.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">6,10 м²</text>
+<line x1="1162.00" y1="392.00" x2="1604.00" y2="392.00" stroke="#dedfd7" stroke-width="1"/>
+<rect x="1162.00" y="418.00" width="15.00" height="15.00" fill="#e0e7e4" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="434.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Гостевой санузел</text>
+<text x="1191.00" y="454.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">постирочная</text>
+<text x="1598.00" y="459.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">5,89 м²</text>
+<line x1="1162.00" y1="473.00" x2="1604.00" y2="473.00" stroke="#dedfd7" stroke-width="1"/>
+<rect x="1162.00" y="499.00" width="15.00" height="15.00" fill="#e0e7e4" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="515.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Хозяйский санузел</text>
+<text x="1598.00" y="540.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">4,10 м²</text>
+<line x1="1162.00" y1="554.00" x2="1604.00" y2="554.00" stroke="#dedfd7" stroke-width="1"/>
+<rect x="1162.00" y="580.00" width="15.00" height="15.00" fill="#dfdccf" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="596.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Хозяйская спальня</text>
+<text x="1598.00" y="621.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">14,62 м²</text>
+<line x1="1162.00" y1="635.00" x2="1604.00" y2="635.00" stroke="#dedfd7" stroke-width="1"/>
+<rect x="1162.00" y="661.00" width="15.00" height="15.00" fill="#e8e0d4" stroke="#9c9e94" stroke-width="1"/>
+<text x="1191.00" y="677.00" font-family="Arial, sans-serif" font-size="16" fill="#303832" text-anchor="start" font-weight="400">Спальня 2 / гостевая</text>
+<text x="1598.00" y="702.00" font-family="Arial, sans-serif" font-size="21" fill="#303832" text-anchor="end" font-weight="600">11,16 м²</text>
+<line x1="1162.00" y1="716.00" x2="1604.00" y2="716.00" stroke="#dedfd7" stroke-width="1"/>
+<text x="1162.00" y="791.00" font-family="Arial, sans-serif" font-size="17" fill="#303832" text-anchor="start" font-weight="400">Сумма площадей комнат</text>
+<text x="1598.00" y="821.00" font-family="Arial, sans-serif" font-size="29" fill="#303832" text-anchor="end" font-weight="600">74,18 м²</text>
+<text x="1162.00" y="872.00" font-family="Arial, sans-serif" font-size="17" fill="#303832" text-anchor="start" font-weight="400">По внешнему контуру дома</text>
+<text x="1598.00" y="905.00" font-family="Arial, sans-serif" font-size="29" fill="#303832" text-anchor="end" font-weight="600">94,33 м²</text>
+<text x="1162.00" y="950.00" font-family="Arial, sans-serif" font-size="18" fill="#697066" text-anchor="start" font-weight="400">11,560 × 8,160 м</text>
+<text x="1162.00" y="982.00" font-family="Arial, sans-serif" font-size="16" fill="#697066" text-anchor="start" font-weight="400">Без лаунджа и террас.</text>
+<text x="1162.00" y="1008.00" font-family="Arial, sans-serif" font-size="14" fill="#697066" text-anchor="start" font-weight="400">Стены включены только во внешний контур.</text>
+<text x="170.00" y="1000.00" font-family="Arial, sans-serif" font-size="14" fill="#697066" text-anchor="start" font-weight="400">Проёмы показаны по номинальным границам модели. Створки и мебель опущены для читаемости.</text>
+<text x="170.00" y="1028.00" font-family="Arial, sans-serif" font-size="14" fill="#697066" text-anchor="start" font-weight="400">400 мм — резерв наружной стены; 200 мм — резерв перегородки. Составы уточняются.</text>
+<line x1="64.00" y1="1094.00" x2="1616.00" y2="1094.00" stroke="#c7c9c0" stroke-width="1"/>
+<text x="64.00" y="1127.00" font-family="Arial, sans-serif" font-size="15" fill="#697066" text-anchor="start" font-weight="400">Геометрия P81 / P83 · проверка с P89 · 14.09.2026</text>
+<text x="64.00" y="1153.00" font-family="Arial, sans-serif" font-size="15" fill="#697066" text-anchor="start" font-weight="400">Номинальные размеры модели; отделка и изделия уточняются. Не для строительства.</text>
+<text x="1616.00" y="1127.00" font-family="Arial, sans-serif" font-size="15" fill="#303832" text-anchor="end" font-weight="400">01 / WEB-AREA-01 · 1:50 на A3</text>
+<text x="1616.00" y="1153.00" font-family="Arial, sans-serif" font-size="13" fill="#697066" text-anchor="end" font-weight="400">Автор: Codex · проверка и утверждение специалистом: не выполнены</text>
+</svg>

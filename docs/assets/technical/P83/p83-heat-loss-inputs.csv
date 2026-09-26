@@ -1,0 +1,7 @@
+﻿room_id,name_ru,room_boundary_m2,system,design_outdoor_c,design_indoor_c,ceiling_volume_m3,envelope_u_values,window_u_g_values,ventilation_m3_h,infiltration_basis,heat_loss_w,ufh_effective_area_m2,owner,source_revision,status
+P26-A-R01,КУХНЯ–СТОЛОВАЯ–ГОСТИНАЯ / ЗАКАТ,32.3096,UFH,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED
+P26-A-HALL,ПРИХОЖАЯ / ХРАНЕНИЕ,6.1,UFH,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED
+P26-A-R02,ГОСТЕВОЙ С/У + PLANT / ПОСТИРОЧНАЯ,5.888,UFH,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED
+P26-A-R03,ХОЗЯЙСКИЙ С/У,4.104,UFH,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED
+P26-A-R04,ХОЗЯЙСКАЯ СПАЛЬНЯ,14.616,RADIATOR,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED
+P26-A-R05,СПАЛЬНЯ 2 / ГОСТЕВАЯ,11.16,RADIATOR,,,,,,,,,,HVAC designer NOT_APPOINTED,P81/P83,INPUTS_AND_CALCULATION_REQUIRED

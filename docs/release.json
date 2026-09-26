@@ -1,0 +1,1277 @@
+{
+  "project": "DBR-P11",
+  "date": "2026-09-25",
+  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25",
+  "technical_revision": "P83 / P81 + P84 / P85",
+  "status": "FOR_CLIENT_REVIEW",
+  "visuals": 32,
+  "plans": 9,
+  "documents": 176,
+  "assets": [
+    {
+      "path": "assets/documents/DBR-P11-P89-whole-house-design.pdf",
+      "sha256": "e87affec5435b2cb0eb46b7eb6882ba119bbb75199cf5d369fe80577c59cfc5e",
+      "bytes": 8745278
+    },
+    {
+      "path": "assets/plans/AREA-01-house.png",
+      "sha256": "0289eb94048143a3cb3000537612cb70e1c0bafd8f45666a827a21b26f87c95f",
+      "bytes": 241697
+    },
+    {
+      "path": "assets/plans/AREA-01-house.svg",
+      "sha256": "f6de679d8881d3ae33554e07d31c471480f42cbf425175c6160b6d4a604aa05f",
+      "bytes": 31887
+    },
+    {
+      "path": "assets/plans/AREA-02-rooms.png",
+      "sha256": "1c430a02c3c7757251ab0a7e99e2b5c12663d3799cbd3769cf8759d538b7eef8",
+      "bytes": 192526
+    },
+    {
+      "path": "assets/plans/AREA-02-rooms.svg",
+      "sha256": "53b8f463d6b7390c6e4f505050ebfe4a3e66dcd0cbc7d6b3a9884437c4474eb5",
+      "bytes": 25593
+    },
+    {
+      "path": "assets/plans/AREA-03-terraces.png",
+      "sha256": "689cbe226dd307cdc5bda5a5cbf907a1e81fe99f267e4424e234fbe18d7b9970",
+      "bytes": 204967
+    },
+    {
+      "path": "assets/plans/AREA-03-terraces.svg",
+      "sha256": "aa8b7465f1a435b98b53de94047d19370e3e18e796ae4e89413231b1ac504f82",
+      "bytes": 11891
+    },
+    {
+      "path": "assets/plans/DBR-P11-room-dimensions.pdf",
+      "sha256": "53ff12d9d862448afac6d8b340baa2bdcabbaf50f88eb4760865d498b39ab958",
+      "bytes": 86819
+    },
+    {
+      "path": "assets/plans/P89-PLAN-01.png",
+      "sha256": "e3303aba94bbbe6da9e8b5476b131d8eec71ae65a97dd14d4e43b07a1765b23c",
+      "bytes": 216623
+    },
+    {
+      "path": "assets/plans/P89-PLAN-01.svg",
+      "sha256": "7784c336ab9ca35c2ae1572a7d23198204b0995ee233e85ea426f1b046b43495",
+      "bytes": 27333
+    },
+    {
+      "path": "assets/plans/P89-PLAN-02.png",
+      "sha256": "3b514c865b6aa12bcee32ad3a289fa5c658dd336ca96afa182e8e1ad50c58e33",
+      "bytes": 210962
+    },
+    {
+      "path": "assets/plans/P89-PLAN-02.svg",
+      "sha256": "e1d1d5e3bad4eb3e75e8cb83ca4164c5c4d148a57dfdd1d2000a01f109c2ef73",
+      "bytes": 22976
+    },
+    {
+      "path": "assets/plans/P89-PLAN-03.png",
+      "sha256": "108cf6a0b207fb4796b095bf11135a88104753f165302fa31645e472dc722212",
+      "bytes": 211063
+    },
+    {
+      "path": "assets/plans/P89-PLAN-03.svg",
+      "sha256": "3501cf0dd91bed9833c7c9125fa72e13716b4ef51bbc443f5dbc155f81ea158b",
+      "bytes": 15855
+    },
+    {
+      "path": "assets/plans/room-areas.csv",
+      "sha256": "12fecf896a3fa06dc189ce248cfa1d5d7bc6b717fcdf4cdf2ae898c9f96491c8",
+      "bytes": 1011
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-01-roofs.png",
+      "sha256": "2b6f740ed98912e98e4cc6d130631611013c31968d441ee70ecd91ddf8cf8de4",
+      "bytes": 299777
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-01-roofs.svg",
+      "sha256": "b5a63acb6fb1419edcd180a099494aa68fa0eba0e292707c9cb22322bac52d31",
+      "bytes": 12241
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-02-section.png",
+      "sha256": "830524a81090983734bb02dff8249eb5f467561fe45efc185c52f8369c53a5b4",
+      "bytes": 280413
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-02-section.svg",
+      "sha256": "0bcffa65dc89cd8ceca89f57ed48653ced529940d9404085f9176108c28a8fe2",
+      "bytes": 9398
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-03-site.png",
+      "sha256": "67f9ed18029349956ec303f7295a45b65c24f4d25492beca347728ff722eb6ae",
+      "bytes": 265906
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-03-site.svg",
+      "sha256": "a19e2cad3b460476c57e2712b2eb1b205735479cdc25ac9adcb3f5793ef7c625",
+      "bytes": 10611
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-04-snow.png",
+      "sha256": "53675f6de72f2d55f0add66fc0178eedffdf76bacb8abb4247a02a50701970a3",
+      "bytes": 318413
+    },
+    {
+      "path": "assets/rain-2026-09-15/RAIN-04-snow.svg",
+      "sha256": "4f0e4b93842c9c262114f8a432c90d8d1fd0cc2f9fa9daf8133e2b78e73ae521",
+      "bytes": 9805
+    },
+    {
+      "path": "assets/rain-2026-09-15/exterior-east.png",
+      "sha256": "2e5d29d1e79d4c26672da80990257af8d0f74edbed78304e8e26156282b78015",
+      "bytes": 2630775
+    },
+    {
+      "path": "assets/rain-2026-09-15/exterior-northeast.png",
+      "sha256": "fc527b53dfb3835788367934671812d98ba3db243aec3f638a95cfc32bd2d7c9",
+      "bytes": 2770678
+    },
+    {
+      "path": "assets/rain-2026-09-15/exterior-northwest.png",
+      "sha256": "9d590c2b43ba7e83bc4c58c9c0f867246becd7f958eedb778538391550c72a26",
+      "bytes": 3034793
+    },
+    {
+      "path": "assets/rain-2026-09-15/exterior-southwest.png",
+      "sha256": "118ac23346eae419329ad1f7a9dba079d26b7193d2f7f9fdd2b96b1adef3c27e",
+      "bytes": 2868283
+    },
+    {
+      "path": "assets/rain-2026-09-15/lounge-entry.png",
+      "sha256": "e58c26c01e4bf384bddf6530e3c1cb00dec718695daafdaa9f7707ed1e8ca78a",
+      "bytes": 2323604
+    },
+    {
+      "path": "assets/rain-2026-09-15/rainfall-scenarios.csv",
+      "sha256": "6ccedaeaf72f68044b2b3c084b382c42fc9ca5f605dccb75115ddde8a3c048d4",
+      "bytes": 441
+    },
+    {
+      "path": "assets/rain-2026-09-15/roof-soffit-membrane.png",
+      "sha256": "8585ae335a486621364c87ff37bfe3eedc910974bf2b7c226fe316ee2b7dba49",
+      "bytes": 1939338
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-01-house.png",
+      "sha256": "576645f8bb6ebf412f19c4a52a07dc2ca6d7a20a8102ad3037a3ae11c72eecf6",
+      "bytes": 330820
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-01-house.svg",
+      "sha256": "deb4b2f81d2bbe3d9bae1b3ecf912cc7b6d0a38dafd2a8e5da3d2e1598c55d23",
+      "bytes": 33644
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-02-master.png",
+      "sha256": "18f566f6a9bb195c9ee4d6436d1ddb47745617b48d45f11368ee43b9a0c032eb",
+      "bytes": 273420
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-02-master.svg",
+      "sha256": "894888bc9dcb4f703c7707469d4e990818941aea784fc11f052f8dabc6c5c48c",
+      "bytes": 19394
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-03-guest.png",
+      "sha256": "990e2728bdeaa0ed690c35d5277f5baf0438467b079b31365c983ebe6f98b6ef",
+      "bytes": 294623
+    },
+    {
+      "path": "assets/space-2026-09-15/SPACE-03-guest.svg",
+      "sha256": "368f9c2d28815c6eb6f0194d35ddd0f98d13fc9eb1c1b9ae352ddfb8258352f9",
+      "bytes": 21417
+    },
+    {
+      "path": "assets/space-2026-09-15/clearances.csv",
+      "sha256": "b3eb6d87878754fcb7f27b424724d1d8020e4a6ec0451a33c1d3c62c0100b5f1",
+      "bytes": 2950
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A001.svg",
+      "sha256": "ec646f196b00808d3fc8cbd956824df33b072802f3c52d849b7eab07c5304342",
+      "bytes": 6036
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A002.svg",
+      "sha256": "ac0cda75556e8515857289125cb1e7ba6a38a8e52d410662e008c7aab27025f7",
+      "bytes": 9046
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A101.svg",
+      "sha256": "440f859a252e63699a198310ab9a2f56482bac812f9c33a113bedf654af4a365",
+      "bytes": 26947
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A102.svg",
+      "sha256": "4aa78d2ebfbe57dfd31fe45dffd157b1b839d7c6092af17133218fb055fcad4c",
+      "bytes": 27010
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A103.svg",
+      "sha256": "2de78ee7a6912b97290e2e75e90d635a6c1bb38c12f9f8127b7de23702d05a11",
+      "bytes": 22599
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A104.svg",
+      "sha256": "6ec518bd8971dc1e930d5f89e0d5d8a55948eca3c26535c626505638dc79f9db",
+      "bytes": 7933
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A201.svg",
+      "sha256": "1ab47ed4c44969df52d2fe0072b0aa8f5e48cc6e47392aa2bc548093edc6174c",
+      "bytes": 32610
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A202.svg",
+      "sha256": "fb5391ac7cefd82648c597b1a63758a58535dc8e8ca863dd55f1b11192ce14c0",
+      "bytes": 20046
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A203.svg",
+      "sha256": "9e4f268375253509558fa57c3418ee2806009e839ef29956ffd47ec785b22f36",
+      "bytes": 16209
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A204.svg",
+      "sha256": "b9b1c46891e514905b0ae96dd3abd73498b08205be6f6c5a55b3dfe108053650",
+      "bytes": 16887
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A205.svg",
+      "sha256": "a11eb456c9829c499009a1cdf5a3a72109a13f4dd0ff1f87ff6130ee339edbf7",
+      "bytes": 16777
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A206.svg",
+      "sha256": "12059da5eef32f7258ae568b03fed66619c72b41fdfd9831e356de518e5b35c4",
+      "bytes": 14099
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A207.svg",
+      "sha256": "32140c3348f4a8b1a48af443e5487bfb04c1af19354b9b6d0547a9ca60983e40",
+      "bytes": 18036
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A301.svg",
+      "sha256": "f49ae8952ad5ce97876c1c94610e199d891dfa97078d260057e4b18f74d1a355",
+      "bytes": 16979
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A302.svg",
+      "sha256": "811be8000c49eea1fcbd041ff0f90e0a3c09066a5671714d658e1aa3b3b643f1",
+      "bytes": 26309
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A303.svg",
+      "sha256": "9e2c487fb83a1a1c7c5400a07e15394450a67a59b2d98e24ea361a9c32941492",
+      "bytes": 26188
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A304.svg",
+      "sha256": "6e0a03672b59a279d5d57288e9fc4bf5fedf37629371a69277e11512384e7510",
+      "bytes": 23556
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A401.svg",
+      "sha256": "16ca39954ea247115c3246a3b90c3cdd6ea74dc1750a20b3128bb023590d11c4",
+      "bytes": 16089
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A402.svg",
+      "sha256": "182d3734d191d8a3897da3abc9071df2f33359db86001d58922b17a5ca27e313",
+      "bytes": 6282
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A403.svg",
+      "sha256": "d30498e66268437edac1634a55d80fab99b27e45024a9fb1f4c50ee545ed2878",
+      "bytes": 7999
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A404.svg",
+      "sha256": "0d35aa81ccf2e4ed146aaa1967c351c8a225bcb07d8a3d587720b58886c9ea6d",
+      "bytes": 11132
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A405.svg",
+      "sha256": "c65f8ced200568c352709b485f39b63f9cdabd72e9589da9a6b8ecb5be8a55a6",
+      "bytes": 6076
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A406.svg",
+      "sha256": "ddb5034fbef3131e9496795f17e4c9c91e1f7176e8a143c3747d4551fc1323e5",
+      "bytes": 6537
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A407.svg",
+      "sha256": "b1a05d2ff633bcd96cfb049eeb19a85ab489c7fff79d4bf1479bc8cf034732dd",
+      "bytes": 7954
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A408.svg",
+      "sha256": "056d85c5323c2f2d6773725fd16025824607cf5df76eb4f12be3ffd702130931",
+      "bytes": 7884
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A409.svg",
+      "sha256": "23cf0e5abe15e2d91d079b102d4e2e83231769cccc160b0b82520d08965f60ca",
+      "bytes": 16571
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A410.svg",
+      "sha256": "a398007162dda9e17d07e8a4a0c914d9396db7be985a11b7296f9e6c7b37cf4e",
+      "bytes": 6327
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A412.svg",
+      "sha256": "5c04eb3646797e73c867279f18d61f7ead91b4e06c34defc73852226e4af85d4",
+      "bytes": 11235
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A501.svg",
+      "sha256": "bd119321a90cb8f5ec5b07ec52bd14b2317b51b05558f2db58339b6555a1390e",
+      "bytes": 9991
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A502.svg",
+      "sha256": "7bdb049b20b80b33345f4802ab8728d276e2737484d129f773d11efbe5cbb020",
+      "bytes": 9560
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A503.svg",
+      "sha256": "bf888097213210b2d5edb5f0876d67299a7b4128487bca2541a8029b32324ceb",
+      "bytes": 11766
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A504.svg",
+      "sha256": "7f0b70c2e849d73b6ea67fe0908ebbed620ff338c8a9cd4672fb650da8adfc1b",
+      "bytes": 10523
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A505.svg",
+      "sha256": "ee072c8fb5ddfa7db981821b4e89d9ccfe8ee751011875020d0a2e0d439ae49c",
+      "bytes": 9009
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-A506.svg",
+      "sha256": "724f07e160fee762ae5c2a35cb0b08a6ec6e609bf4e6861c745f07e3d0a34df9",
+      "bytes": 10248
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B101.svg",
+      "sha256": "ed836e26029a8f7e072779eb3ccb6d90fe7fccf87f2a31c9dd2a17228015b5a0",
+      "bytes": 10251
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B102.svg",
+      "sha256": "ac2d1569db4a9289340e05263398bde4b03d240c820f7cba5bc629b6d0336ef6",
+      "bytes": 6563
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B103.svg",
+      "sha256": "7cf7a2f9b749f9fa46e4163f5db5d00082bb32a3f035297c2bd88b0fb55e2c99",
+      "bytes": 6800
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B104.svg",
+      "sha256": "4c497afd332f663e61510a6a0752321892f03f6ccd5b6eef38e505a50940ca2e",
+      "bytes": 6796
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B105.svg",
+      "sha256": "f94498fef5a930827f8537742b1e31da527ab3ef0b14430eeb20fe5967c2fe02",
+      "bytes": 6573
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B106.svg",
+      "sha256": "8758084a14bcc804ce441dcbfebaa1852cd2052c5517268edb717627a7315695",
+      "bytes": 6769
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B107.svg",
+      "sha256": "2dfc0dcbb3d1c7965dac0630f5ba9232b9ad102936a35bbbe23f9a93bb680a6f",
+      "bytes": 6101
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B108.svg",
+      "sha256": "d47ed50d34aa38730cc5258f0fd90d50d4fcd932d7bd70d31b46c87a3799506b",
+      "bytes": 5926
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B201.svg",
+      "sha256": "77b7db3c621b51a791b503082f5c748edc3682991a452af16a6962af0d91185c",
+      "bytes": 13106
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B202.svg",
+      "sha256": "193401e868dfc734fc69cc3ae35076917075d8b42fc83901d3b32b74dc050b29",
+      "bytes": 13211
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B203.svg",
+      "sha256": "296abb2e6ae4cd1cc2364fbe9b334cd4d412e534aeb8a6610c0108172077bb09",
+      "bytes": 13245
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B204.svg",
+      "sha256": "a68e249dcc839e100caf2fff2d040e9b70dfeea2efc7828962a03a9d679cfc47",
+      "bytes": 12385
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B301.svg",
+      "sha256": "ff9250e3e672fb314ff1e72062c8389f193106e209529aff79f0a4d86c6b04bd",
+      "bytes": 17261
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-B302.svg",
+      "sha256": "93934db2be7e53f6d1c5952a8485f05962d4eee23fb5bae464aa883147b3b327",
+      "bytes": 17359
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M101.svg",
+      "sha256": "5557a433666c14ea9a975e5cb8e34917c49971a2f9b0d87131c0342379762a1d",
+      "bytes": 11523
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M102.svg",
+      "sha256": "611e4732287563b0384fff20255964e16ad0bb69fc9e71494c6b88ef82de0ebc",
+      "bytes": 48394
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M103.svg",
+      "sha256": "7c84b46d833d688c5735c180115a897f9598634f4d0c3e5f758e0650912e94ac",
+      "bytes": 6204
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M104.svg",
+      "sha256": "426bc04aedde6130d3b575a6e4e3220a580441f165875ee5aeb26375e99322d2",
+      "bytes": 9580
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M105.svg",
+      "sha256": "4857087f442294610dc288d981f1cc1721a69a08ba17f14457d5b63355afffe9",
+      "bytes": 9866
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M106.svg",
+      "sha256": "94608dff3db5e51da9ddda8d56fe728480df03e51ff613499e7bdeda8ae417be",
+      "bytes": 7642
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M107.svg",
+      "sha256": "6abb8eb2c704bc8276a4d28e83e016057cfea285035a80555ee967cbb515f14f",
+      "bytes": 7622
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-M108.svg",
+      "sha256": "d077a7fe8f3fa03d21338a4756a3b3e1cd5979fc0c0aca52df85f470475724e6",
+      "bytes": 20259
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-builder-brief.pdf",
+      "sha256": "5e300c577c7ce774177fdb3e9904f76e2d6b4317967470e4441bbbd45a98615e",
+      "bytes": 1449051
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-current-project-book.pdf",
+      "sha256": "43a206836e542c34615289f20a62a766c5ae30dbe4c9c12608869b0b7978e98c",
+      "bytes": 40550187
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-finish-areas.csv",
+      "sha256": "30338c54f2374a1ac904d87792dfa0b0d46c0775b748a4e4b0cfb6e2fddaac29",
+      "bytes": 773
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-furniture.csv",
+      "sha256": "1f4517f8bee638c66091bf9fa9aad1a638b5e6bb1b28860513f72cc782125d2f",
+      "bytes": 13738
+    },
+    {
+      "path": "assets/technical/P82/DBR-P11-P82-material-takeoff.csv",
+      "sha256": "802980a383dd23bcd943414337cf658d075a82e595b5147eb0bb7c52319ed22f",
+      "bytes": 41806
+    },
+    {
+      "path": "assets/technical/P83/DBR-P11-P83-coordination.pdf",
+      "sha256": "6857fb184f1e1e40139006278ec7aab990c7069b18a71070ab093e5cb87c0c66",
+      "bytes": 768741
+    },
+    {
+      "path": "assets/technical/P83/DBR-P11-P83-current-complete.pdf",
+      "sha256": "7f9144040a2c30df688b6cc90eaeeae9f9067460509cb0f8e94d8a9ed96473cf",
+      "bytes": 41235083
+    },
+    {
+      "path": "assets/technical/P83/P83-001.svg",
+      "sha256": "07c49c9266c54c99c86ff9c45c4a3e4e0674e124e37a7e9b0c5ae4b13064e9c9",
+      "bytes": 5212
+    },
+    {
+      "path": "assets/technical/P83/P83-C101.svg",
+      "sha256": "e408fd5a8a43ac757bb050b02187a64b0e12f7dd8cf567ae142143f61d9e85ae",
+      "bytes": 5992
+    },
+    {
+      "path": "assets/technical/P83/P83-C102.svg",
+      "sha256": "5cbe6b98b4537d78c295237e6fc428994469452787c52761d06397e1d10c49c7",
+      "bytes": 5109
+    },
+    {
+      "path": "assets/technical/P83/P83-H101.svg",
+      "sha256": "796a2cb8523869a6a8db1764b7eb7f390a7d305ea789039175f34e1330936a9f",
+      "bytes": 23019
+    },
+    {
+      "path": "assets/technical/P83/P83-H102.svg",
+      "sha256": "b9dbf07a6702bd15277931b8d20ebe90fe833c49632eb30184db8fe61f8af980",
+      "bytes": 7772
+    },
+    {
+      "path": "assets/technical/P83/P83-H103.svg",
+      "sha256": "7ef30f362032259f60d20ea9b5d8ebb3e5c8825d9a7811b736e66470d4010f6c",
+      "bytes": 6292
+    },
+    {
+      "path": "assets/technical/P83/P83-S101.svg",
+      "sha256": "3702cb247feabf186ae9020f9278858d0bd81a114efa303cb94a8237308d1ff5",
+      "bytes": 1059913
+    },
+    {
+      "path": "assets/technical/P83/P83-S102.svg",
+      "sha256": "a2df6ced13baef6d4ebd8e2fb5af58afdd690dbc66bd0d32dd4f4f6fc2ff1edd",
+      "bytes": 5169
+    },
+    {
+      "path": "assets/technical/P83/p83-cost-enquiry.csv",
+      "sha256": "c80aa56592bab314f3d6dd47b3778ae2e2142ebcca0392bfff9eed04f3e3fe4c",
+      "bytes": 2255
+    },
+    {
+      "path": "assets/technical/P83/p83-drawing-register.csv",
+      "sha256": "27bf4d92db6f0d7ff2643ca096403de47c80b29c0578420fc81f4f5f71442533",
+      "bytes": 2146
+    },
+    {
+      "path": "assets/technical/P83/p83-heat-loss-inputs.csv",
+      "sha256": "27ae6a516789f49ab548fb24988319df8e7937a5fde010c6d7d174505498e22c",
+      "bytes": 1079
+    },
+    {
+      "path": "assets/technical/P83/p83-heating-schedule.csv",
+      "sha256": "3a705df3f6d450d2e004ae5d3e48b076a0290e4a9a07a872e01ab5ff8703dadc",
+      "bytes": 539
+    },
+    {
+      "path": "assets/technical/P84/DBR-P11-P84-electrical-coordination.pdf",
+      "sha256": "46b325481350a390f8adfb0cc9132af439fe75a148fa3b5f42f08057826f543b",
+      "bytes": 1128211
+    },
+    {
+      "path": "assets/technical/P84/P84-E001.svg",
+      "sha256": "d98ce5e0d54304c4d9a0694daccce4cac46ecb786c9c4eeccbbcaf54629cd7ac",
+      "bytes": 6705
+    },
+    {
+      "path": "assets/technical/P84/P84-E101.svg",
+      "sha256": "32282381c28aad3c1335003e487fa2341362e191fc7d966fc382a2858a629ee2",
+      "bytes": 43366
+    },
+    {
+      "path": "assets/technical/P84/P84-E102.svg",
+      "sha256": "c8e448d4b374f827bc270d3d5b0cbbf12391f357e2c0f9001051c41fc61e8139",
+      "bytes": 36611
+    },
+    {
+      "path": "assets/technical/P84/P84-E111.svg",
+      "sha256": "6554250daf5fc207922a9f67af9fd60c42631601b192fc178f70015a5e99ac81",
+      "bytes": 18855
+    },
+    {
+      "path": "assets/technical/P84/P84-E112.svg",
+      "sha256": "28d2022f03bb439249333d81863c1eea2da2e7ffdf432201d352f3b9c3410c78",
+      "bytes": 18210
+    },
+    {
+      "path": "assets/technical/P84/P84-E201.svg",
+      "sha256": "3a9c1232d3aa2598ae976778efb983327221d494fa41d733b7625d8dbcee7a42",
+      "bytes": 34147
+    },
+    {
+      "path": "assets/technical/P84/P84-E202.svg",
+      "sha256": "7afe58a33175aa4846df37658b32fc298e9359a926076dbaca69991904489261",
+      "bytes": 14764
+    },
+    {
+      "path": "assets/technical/P84/P84-E203.svg",
+      "sha256": "efdfa0b42c1bd7c0ea13786be2b9b2c9827a4604754455ad98e8b0bf620420ca",
+      "bytes": 14780
+    },
+    {
+      "path": "assets/technical/P84/P84-E204.svg",
+      "sha256": "c0b76438b0ddc0a5d8b397469aab72166a35947da3669b33f719d65ad409527b",
+      "bytes": 10463
+    },
+    {
+      "path": "assets/technical/P84/P84-E205.svg",
+      "sha256": "63b2a05debafdd8ea92bc9182aad7ca92810432db94570af3b3356de0721847e",
+      "bytes": 14683
+    },
+    {
+      "path": "assets/technical/P84/P84-E206.svg",
+      "sha256": "3c392d2d9eefe107b223bce7adcff100791806a01258db85c46c834d46ab0e99",
+      "bytes": 14529
+    },
+    {
+      "path": "assets/technical/P84/P84-E207.svg",
+      "sha256": "66ec1df698974d3648bf9b932f3f6dfbb263053a3da0d0439ce5f81637fcaa62",
+      "bytes": 16657
+    },
+    {
+      "path": "assets/technical/P84/P84-E301-1.svg",
+      "sha256": "4c6b25d9e8f3b3b3f6e37cf3c73121c7a3b4f39b24daf044ad4d8668b1d941d1",
+      "bytes": 15223
+    },
+    {
+      "path": "assets/technical/P84/P84-E301-2.svg",
+      "sha256": "ec665471f6af3eaef6c872dc6e44a077ac6a632b03200bcff04389d1fe977e13",
+      "bytes": 6193
+    },
+    {
+      "path": "assets/technical/P84/P84-E302-1.svg",
+      "sha256": "fe66cae9df279c3ecb7dec70bea0fde5be12e1e8af4ab28637449000acee5d68",
+      "bytes": 9052
+    },
+    {
+      "path": "assets/technical/P84/P84-E302-2.svg",
+      "sha256": "7af00151008ddd6eb3263223c3518285382612414f65c23b106de730afb433b9",
+      "bytes": 4995
+    },
+    {
+      "path": "assets/technical/P84/P84-E303-1.svg",
+      "sha256": "660967d88826db0afd5f72acdde53c33145f7949d2c16dcf15632c262076ca83",
+      "bytes": 8705
+    },
+    {
+      "path": "assets/technical/P84/P84-E304-1.svg",
+      "sha256": "f746ec82f1c844a78d325ed4ea37f4841d1296a7da7740a76f274dc13bfff2da",
+      "bytes": 8975
+    },
+    {
+      "path": "assets/technical/P84/P84-E305-1.svg",
+      "sha256": "2c9c7152ea76cc7630b78144942317d45e9e7e2b8cd0e34601068ad8b26082b1",
+      "bytes": 11936
+    },
+    {
+      "path": "assets/technical/P84/P84-E306-1.svg",
+      "sha256": "93fa2afbdf74f96523a3f2a760731786dfc37f3839572d5e9d1688b247b91cfb",
+      "bytes": 11467
+    },
+    {
+      "path": "assets/technical/P84/P84-E307-1.svg",
+      "sha256": "ccc06b2b31b57d5313292f4fb13b73de45b41b3063447be5c4570bd1b4239952",
+      "bytes": 11215
+    },
+    {
+      "path": "assets/technical/P84/P84-E401.svg",
+      "sha256": "79d07819dd06e679e14884df6112d899a4117009258ee673777acaf18dab9577",
+      "bytes": 23203
+    },
+    {
+      "path": "assets/technical/P84/P84-E402.svg",
+      "sha256": "603f533b82f01ad4c709ef5338bff70aa908021ef2628bd28a7e1700d3c9dff5",
+      "bytes": 22925
+    },
+    {
+      "path": "assets/technical/P84/P84-E403.svg",
+      "sha256": "585a2fc2373094915027d789005fe5b2947e6583c853ada8ba54613192f21810",
+      "bytes": 23151
+    },
+    {
+      "path": "assets/technical/P84/P84-E404.svg",
+      "sha256": "1996694749a8bd4b16e0917c1c8cfdff53482878d5bf74fcc7ed5e5f23e95efc",
+      "bytes": 23695
+    },
+    {
+      "path": "assets/technical/P84/P84-E405.svg",
+      "sha256": "95c116c2eb3649b8b1a4f2b32dbd59d357ae149aff69af43ae8be11f88633e6b",
+      "bytes": 23010
+    },
+    {
+      "path": "assets/technical/P84/P84-E406.svg",
+      "sha256": "fdf97415b15ec904a35c8d9e384f029a8c916065461293de5daacad2c35859b9",
+      "bytes": 23740
+    },
+    {
+      "path": "assets/technical/P84/P84-E407.svg",
+      "sha256": "e137240c61fc464a3e9600ad1ab37e3c8f70c191c20e82161dbccbed88715508",
+      "bytes": 6520
+    },
+    {
+      "path": "assets/technical/P84/P84-E501.svg",
+      "sha256": "05655fccb6ee0d72f32e06dffbc732bdc5d6e4882c914c097c9c1c1408af8276",
+      "bytes": 11933
+    },
+    {
+      "path": "assets/technical/P84/P84-E502.svg",
+      "sha256": "89eda662ea1a6e6d9919c12a51d4f016f7d4ddc3677e5e08801245fec61ee71d",
+      "bytes": 8997
+    },
+    {
+      "path": "assets/technical/P84/P84-E521.svg",
+      "sha256": "8e53d0063b52268f75a6b7d1c5bb280aad137f0f6d7c624cdf2d593f3fcdfa3e",
+      "bytes": 14407
+    },
+    {
+      "path": "assets/technical/P84/P84-E601.svg",
+      "sha256": "9cbc0923e67d8fc058ab6690ae58bfe8aabc46b5fd6c319bc0016437a16d341f",
+      "bytes": 22738
+    },
+    {
+      "path": "assets/technical/P84/P84-E602.svg",
+      "sha256": "c4d51c2d838bba9b1fc9daf3e766cbee9775bd20b06820be47d5d81b7b69adeb",
+      "bytes": 8767
+    },
+    {
+      "path": "assets/technical/P84/P84-E701.svg",
+      "sha256": "1327389a0e7b6158fafce0249764ccd80335a3f092f480184ac3abcf7934a778",
+      "bytes": 16416
+    },
+    {
+      "path": "assets/technical/P84/P84-E702.svg",
+      "sha256": "8160536d231ca5f9f90eaf69d27757355d1db6f01b877270f69be759e347e9d2",
+      "bytes": 14221
+    },
+    {
+      "path": "assets/technical/P84/p84-control-mappings.csv",
+      "sha256": "311e0ad07d61589080db02df2e02ff6dd042787096a9bd3033849a856cdfe768",
+      "bytes": 31513
+    },
+    {
+      "path": "assets/technical/P84/p84-old-to-new-groups.csv",
+      "sha256": "04c0fbe884ad10499735e6fc26f6ad18bfa2a73128f18f25fa475dd85f93e50c",
+      "bytes": 12070
+    },
+    {
+      "path": "assets/technical/P84/p84-open-items.csv",
+      "sha256": "b060e22bc59eb9177dbfbc71b71a55fdb012a0fbcb56e893314411d608bc072b",
+      "bytes": 11616
+    },
+    {
+      "path": "assets/technical/P84/p84-points.csv",
+      "sha256": "585e87503d11ca795d02dfafd34c0316f53a03d97d51c8acd987faa5d11adb0f",
+      "bytes": 115526
+    },
+    {
+      "path": "assets/technical/P84/p84-routes.csv",
+      "sha256": "04feff1758695415cae976823f87e722f0222f847c85e12c82e61f6bb7eb19eb",
+      "bytes": 7026
+    },
+    {
+      "path": "assets/technical/P84/p84-source-inclusion.csv",
+      "sha256": "9b44504e45955cad230a99bd991c16e65e11c85ec06e65a7ace5f8fefeb12222",
+      "bytes": 31820
+    },
+    {
+      "path": "assets/technical/P85/DBR-P11-P85-electrical-decisions.pdf",
+      "sha256": "45afeb824064771d6b60260ae8310883291f285a25a19d8286d14e6378ed1a4f",
+      "bytes": 247738
+    },
+    {
+      "path": "assets/technical/P85/P85-E00.svg",
+      "sha256": "4e17cdb10080ccd2c66e9f4b5f4697c805769588b8d8aa14c19586e319b959ef",
+      "bytes": 7811
+    },
+    {
+      "path": "assets/technical/P85/P85-E01.svg",
+      "sha256": "b936f998ef5b47a10d9462d93db7aba259ad86aa35be42aed388bdd37960b788",
+      "bytes": 25910
+    },
+    {
+      "path": "assets/technical/P85/P85-E02.svg",
+      "sha256": "58fa0b79c61f26a337bfac5f50572a0482c20dc6a268062275a56fae2c4e261f",
+      "bytes": 39354
+    },
+    {
+      "path": "assets/technical/P85/P85-E03.svg",
+      "sha256": "5ef176e38506ab90c7d351c96d58ed94bb0aafde29fdbd59785ed0efbb8d3a14",
+      "bytes": 36959
+    },
+    {
+      "path": "assets/technical/P85/P85-E04.svg",
+      "sha256": "d9ed0f844c5838f2fc0665c2290a46369ad7b6f9f6a420e5cab8deab7a690f2a",
+      "bytes": 17593
+    },
+    {
+      "path": "assets/technical/P85/P85-E05.svg",
+      "sha256": "492b3340af282563d974685df091a1b24f1f79a546ee041f6da7585f4f6ce278",
+      "bytes": 58929
+    },
+    {
+      "path": "assets/technical/P85/P85-E06.svg",
+      "sha256": "15f0c542fac04a097ce6754a7c24354c2ba327ea0f556929626f7008fdca8943",
+      "bytes": 6859
+    },
+    {
+      "path": "assets/technical/P85/p85-decision-cards.csv",
+      "sha256": "d7a3d6838c821a775eb7e8d76d9a4b75ef782f5003e9b34ebf243d56363f9d37",
+      "bytes": 54600
+    },
+    {
+      "path": "assets/technical/P85/p85-open-item-map.csv",
+      "sha256": "1846bc67a0134a5f27e31ff77a37fe2f073de3d08bf8814b947833fed767dc48",
+      "bytes": 4547
+    },
+    {
+      "path": "assets/technical/P85/p85-technical-handoffs.csv",
+      "sha256": "4639d075e2c9ae88923f5fbbe843d15299ebf3c3d9258d94dd887b9bd02ed8a3",
+      "bytes": 5165
+    },
+    {
+      "path": "assets/technical/P89/P89-PLAN-01.pdf",
+      "sha256": "3723fc6e6e117f92d18b72d9ee2379b8c9eebd2a2535d84639281e18af2c5bd0",
+      "bytes": 44181
+    },
+    {
+      "path": "assets/technical/P89/P89-PLAN-02.pdf",
+      "sha256": "c5d258ba38dc839a19323cd3f03e26c5b929ccc56e0858c5615f1a0f56bdb120",
+      "bytes": 42158
+    },
+    {
+      "path": "assets/technical/P89/P89-PLAN-03.pdf",
+      "sha256": "fca38bd7074245861836df611b0141dd30969a83a7f161a713bf57a72c6c406e",
+      "bytes": 38667
+    },
+    {
+      "path": "assets/updates/DBR-P11-roof-and-shower.pdf",
+      "sha256": "bcbce5e7295e8d6f973b28e099c588c3e3ed68cc51ccd4a70d2c8f77f2155f5f",
+      "bytes": 60414
+    },
+    {
+      "path": "assets/updates/DBR-P11-site-placement.pdf",
+      "sha256": "f9bd2d6ecf30660f891428a77d5db74546782cdf7349ab511c2fad7673a5a7a9",
+      "bytes": 182674
+    },
+    {
+      "path": "assets/updates/RF-01-roof.png",
+      "sha256": "c38f03a3d488af632831e893ea9d7d7cf1525d8b7880b017ac6504a9878cd77d",
+      "bytes": 315274
+    },
+    {
+      "path": "assets/updates/RF-01-roof.svg",
+      "sha256": "51db60a91ab7202f5f209c67eb1c4ff2a1298efb066efbf5b52d33cb76bbefdc",
+      "bytes": 9380
+    },
+    {
+      "path": "assets/updates/SH-01-shower.png",
+      "sha256": "333cf7ee374bcbe9c0d38186a1e3525b474392fc2802e3cb83ec90e889463697",
+      "bytes": 324725
+    },
+    {
+      "path": "assets/updates/SH-01-shower.svg",
+      "sha256": "f8f99fe6323716b2c5dfd814c6a0a1f961e83e3273700a6c57d111357b8f8475",
+      "bytes": 19220
+    },
+    {
+      "path": "assets/updates/SITE-01-topography.png",
+      "sha256": "97f3b5d9f8ce316bf3d023d8f847fa7ab0bd6a0a8d456790bcbfcb6602d398b5",
+      "bytes": 797261
+    },
+    {
+      "path": "assets/updates/SITE-01-topography.svg",
+      "sha256": "39358c4c051ae3bbfb30fbc18c270f02419cb194038dfed87e20c911339485b4",
+      "bytes": 220491
+    },
+    {
+      "path": "assets/updates/SITE-02-setting.png",
+      "sha256": "7ddbfadab7b4ba2ca42a7e747f5f80267de602ee73a88fd51b3905cea926ae80",
+      "bytes": 275492
+    },
+    {
+      "path": "assets/updates/SITE-02-setting.svg",
+      "sha256": "321d913e20fef906fe8cbc977e8f989832a4f2b3abd1b92aac7299993c457430",
+      "bytes": 14477
+    },
+    {
+      "path": "assets/updates/master-bath-A-complete.png",
+      "sha256": "4e88bfa252f3ef1aef17e311d822769a3514e2faa6a41c663a7eecffec3e2b80",
+      "bytes": 2050635
+    },
+    {
+      "path": "assets/updates/master-bath-B-complete.png",
+      "sha256": "e173b3b12ee05748711a267eff69532b3d466addea2af73cfeab8baf4d546706",
+      "bytes": 2458389
+    },
+    {
+      "path": "assets/updates/master-bath-reverse-complete.png",
+      "sha256": "9bcdad00a1264c136e267d790ee31b119ada66ae897cecb9ddb8949081d57e00",
+      "bytes": 1970956
+    },
+    {
+      "path": "assets/updates/roof-soffit-hidden-gutter.png",
+      "sha256": "961b091d96e689a498e8cf2d1560d6276630dae83051e181cc4e7afc1b06353e",
+      "bytes": 1887427
+    },
+    {
+      "path": "assets/updates/site-clearances.csv",
+      "sha256": "a824a546131b991afc7bfb2cbc6e7e6eec1e16b9996b307b66a0e44cc79e915e",
+      "bytes": 962
+    },
+    {
+      "path": "assets/visuals/bar-current.png",
+      "sha256": "e5b6b622356cf5cff8a1f2740ff15301bd9a2c6b53fd4c55f78871a7e6820695",
+      "bytes": 2134752
+    },
+    {
+      "path": "assets/visuals/bedroom2-front.png",
+      "sha256": "909ba508059349f1824282f50c3523ecd8bb14601576688d1935e43d3ddef0fa",
+      "bytes": 2086920
+    },
+    {
+      "path": "assets/visuals/bedroom2-main.png",
+      "sha256": "65e91481e21316616b0b90af67c0b6edfc2023f22625358aacff70cdeefc38ae",
+      "bytes": 2247480
+    },
+    {
+      "path": "assets/visuals/bedroom2-reverse.png",
+      "sha256": "34e823b27b46c416e61f8b7a926b4cf20e07a3dad671270a61177bdd2343e276",
+      "bytes": 2058441
+    },
+    {
+      "path": "assets/visuals/exterior-east-day.png",
+      "sha256": "485841af1fa6736c6b2e5f4d7f8603736bb3a572836ed4761445249c3474cfd3",
+      "bytes": 2779240
+    },
+    {
+      "path": "assets/visuals/exterior-northeast-current.png",
+      "sha256": "f28d8bf3de2cc8da6dc1dee51782f47acba963c3b7f26ea3bbe534fee0c8cb73",
+      "bytes": 3125974
+    },
+    {
+      "path": "assets/visuals/exterior-northwest-wet-current.png",
+      "sha256": "3c9c688117c1eab60850d6aee99d4e34172e768dbd4ecc9cd43936c3297673b6",
+      "bytes": 3250703
+    },
+    {
+      "path": "assets/visuals/exterior-southwest-current.png",
+      "sha256": "789cb493b245f879cfd76da6cff8a5770dafc240ad9f368101c88bd47766cb0c",
+      "bytes": 3005791
+    },
+    {
+      "path": "assets/visuals/guest-bath-main.png",
+      "sha256": "2836dad5c62f2d72f12bfb6b71ee86882e642aebabcae0e97309280c3528c008",
+      "bytes": 1942550
+    },
+    {
+      "path": "assets/visuals/guest-bath-reverse.png",
+      "sha256": "ec6c8712d5d08d0ae55cd7276581ef12b8cba8822d87717a7ec965c6939271b3",
+      "bytes": 1900609
+    },
+    {
+      "path": "assets/visuals/guest-bath-shower.png",
+      "sha256": "11b5583f8fc848b23a199cd09cac1f776ba6699d40ce03e35adddc38b4ead204",
+      "bytes": 1828644
+    },
+    {
+      "path": "assets/visuals/hall-graphite-endwall.png",
+      "sha256": "b893e1ab033432a3ff6701b6b5fe938c5205761bc53fbc46785677a9753dd38f",
+      "bytes": 1657020
+    },
+    {
+      "path": "assets/visuals/hall-to-entry.png",
+      "sha256": "e59471359d0f1bf6301dfb87b4e6098bd5e71f569e65cce13fbcf66603f6e759",
+      "bytes": 1938688
+    },
+    {
+      "path": "assets/visuals/kitchen-clear-day.png",
+      "sha256": "af07781a7ad8e9567add653495949e66bbc9618938560b278f12121ee8e80ed4",
+      "bytes": 1925218
+    },
+    {
+      "path": "assets/visuals/kitchen-clear-evening.png",
+      "sha256": "f8f30d0e1da904ed075c1da1876b2029c0bba25e154cebd5ae13c76ab23fb125",
+      "bytes": 1856020
+    },
+    {
+      "path": "assets/visuals/kitchen-clear-island.png",
+      "sha256": "b41e033b827acc00fb12651a56a81f909aaef4998dc5dc9d27dc0448fda9f788",
+      "bytes": 1768392
+    },
+    {
+      "path": "assets/visuals/living-behind-dining-to-tv.png",
+      "sha256": "9a4d7f4a2e97a02e37cd1935c92b3a62ca6cf23b24640931d52693c472deaf69",
+      "bytes": 2026599
+    },
+    {
+      "path": "assets/visuals/living-curtains-closed.png",
+      "sha256": "99e3a7f79cb0e6ca6f8c74708068cd1d79cfb16660c803a2e4ee0d1d1bccba5b",
+      "bytes": 1832755
+    },
+    {
+      "path": "assets/visuals/living-curtains-open.png",
+      "sha256": "10b054b1fe83d9f8a1278abd7d4377de0e42cf5b9e9d4489cc3c6acb65c77fa3",
+      "bytes": 1882994
+    },
+    {
+      "path": "assets/visuals/living-from-D02-threshold.png",
+      "sha256": "e169a8564ee282977afa41f2f5e4f03171888e030348934870eebc1276551a47",
+      "bytes": 2090215
+    },
+    {
+      "path": "assets/visuals/living-media-current.png",
+      "sha256": "1d2dfb7e56a8ba9416868d82b799ee7d1bb8407f3e2d520dd77b8dc0c2e67e98",
+      "bytes": 1874897
+    },
+    {
+      "path": "assets/visuals/lounge-entry-exterior.png",
+      "sha256": "a939cceeb1ddfb2c1dde915ccb97bc8a27eb63ac70ad7265892038c0eb0ff95c",
+      "bytes": 2376460
+    },
+    {
+      "path": "assets/visuals/lounge-entry-wet-armchair.png",
+      "sha256": "7efb536cfc68726eb3b9c1acfc522b60505e561f4487aa4ed0d0ba62e714a7cb",
+      "bytes": 2395599
+    },
+    {
+      "path": "assets/visuals/master-bath-A.png",
+      "sha256": "ef11881b8229d8b2e6cb4a11c722eddd2d763589bc93d59da4a35b51d1ed65c2",
+      "bytes": 2366049
+    },
+    {
+      "path": "assets/visuals/master-bath-B.png",
+      "sha256": "080d29600de61a04ca369b8764371038df1b6afa2abb0ac64dc16a0a101b2bc3",
+      "bytes": 2407441
+    },
+    {
+      "path": "assets/visuals/master-bath-reverse.png",
+      "sha256": "9ae46c85de7996d65cbff1667d2915c0d84a8ca054e30fb224f7fe64ab1d0b91",
+      "bytes": 2239660
+    },
+    {
+      "path": "assets/visuals/master-bedroom-diagonal.png",
+      "sha256": "b36c9e00af8a60cd0e2df2db4b13bf170830f4eea28f01c16b7d85d985f14de5",
+      "bytes": 2399198
+    },
+    {
+      "path": "assets/visuals/master-bedroom-main.png",
+      "sha256": "8ddd9dc11d6b7cd055c053c87c272bb8918371e13f54657ab322d2f3b03e49f8",
+      "bytes": 2032905
+    },
+    {
+      "path": "assets/visuals/master-bedroom-reverse.png",
+      "sha256": "3ec0a4c4ffdc059eaa419bb0b895471e8146ce42655a38da16f26b7bb5c0900f",
+      "bytes": 1886873
+    },
+    {
+      "path": "assets/visuals/terrace-cooking-wet-current.png",
+      "sha256": "4a1aea3702f30010278bb5a53b00bc22d105fd189d93e4059947f549568e9ac6",
+      "bytes": 2991593
+    },
+    {
+      "path": "assets/visuals/wet-coat-cabinet-closed.png",
+      "sha256": "4a3eae5a48f68c6a29652f0bb40584e4ed5e359ba3de369161d3bc475087aaa1",
+      "bytes": 1952356
+    },
+    {
+      "path": "assets/visuals/wet-coat-cabinet-open.png",
+      "sha256": "c7f25e6cc6aa1158915097c1c4d3f35aa35228181f2111e9cd0626092c2c6882",
+      "bytes": 2046999
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-guest.png",
+      "sha256": "3b470ed8ea76aa24e03a349f1df66f07b8d229674238a0310e6b0c26360b9c63",
+      "bytes": 280340
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-guest.svg",
+      "sha256": "052869950fa3c1b9cf5a12cd08ffc8377e7a041c63277a468b8f307fb068ad07",
+      "bytes": 17283
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-kitchen.png",
+      "sha256": "e903121cfc834b9859ec16043daa0ddbd3016ddedac852d5ea33ea871ff6a7e2",
+      "bytes": 251317
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-kitchen.svg",
+      "sha256": "926630ce4f1b1d311eeb08cd27cbdd8286ac7da7cbf8d025ca1158abf9f541d2",
+      "bytes": 10267
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-master.png",
+      "sha256": "81de9b3d918a7c9cc44321b4e49446f9e1939c73f13c7dce88338e28c0f5c26a",
+      "bytes": 269381
+    },
+    {
+      "path": "assets/wet-2026-09-15/WET-master.svg",
+      "sha256": "cc5d67bce5c876d2c6974d77eaa42c47048fc1a934a7b4be108bc9071814ec22",
+      "bytes": 16219
+    },
+    {
+      "path": "assets/wet-2026-09-15/guest-basin-shift.png",
+      "sha256": "73aa3e75bb3a3feebc1a7ab8526e8f9fbeee62f30f1a39b7a419c79296922c86",
+      "bytes": 1895360
+    },
+    {
+      "path": "assets/wet-2026-09-15/guest-dry-zone.png",
+      "sha256": "ceb0320380ec57c6506efdc25f3026b9b482e867bdcd383f986fe218aba95eeb",
+      "bytes": 1939636
+    },
+    {
+      "path": "assets/wet-2026-09-15/guest-shower-corner.png",
+      "sha256": "9498491c10e07595452f0993a3d32eda533fcad5d4248ff355bc0ab3d5584313",
+      "bytes": 1836196
+    },
+    {
+      "path": "assets/wet-2026-09-15/kitchen-midwindow-evening.png",
+      "sha256": "90f7dee98104a0a3944a4b159ee96b76be015335459d5d828b46119063a0bcee",
+      "bytes": 1871743
+    },
+    {
+      "path": "assets/wet-2026-09-15/kitchen-midwindow-greige.png",
+      "sha256": "fc9d7e50533e7c2432524644bd78ad5547d4429e84b957cb2b286f88f6c95570",
+      "bytes": 1811629
+    },
+    {
+      "path": "assets/wet-2026-09-15/kitchen-midwindow-island.png",
+      "sha256": "58e1570fb2c1121a42496ebcfa2f34e531ddf248e2f2ecccf5d02383196a713f",
+      "bytes": 1801165
+    },
+    {
+      "path": "assets/wet-2026-09-15/kitchen-midwindow-ivory.png",
+      "sha256": "9ee417502f20d1a5d488e8ef0735d044744a444da54f012756b9f1fcfb2b80de",
+      "bytes": 1880933
+    },
+    {
+      "path": "assets/wet-2026-09-15/master-accepted-basin.png",
+      "sha256": "cee157bc0bc9e14fc373a0ccd5a1c6dccee621a74e258f89b8038ceb08748a99",
+      "bytes": 2221714
+    },
+    {
+      "path": "assets/wet-2026-09-15/master-basin-greige.png",
+      "sha256": "119145ea2a7d85e29c82d0b47024a76dc563357e95fb33776093be7a128fa768",
+      "bytes": 2788005
+    },
+    {
+      "path": "assets/quantities-2026-09-15/house-materials.xlsx",
+      "bytes": 1134551,
+      "sha256": "e5420371519a8a2e21982ee6a8de8c1217bcc0318c361e227aed1ab49b8f7642"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q01-floors.png",
+      "bytes": 352630,
+      "sha256": "1e569dbc433f9933298527493a20efbe286a71d405052766951a9fe0a42f4edb"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q01-floors.svg",
+      "bytes": 44839,
+      "sha256": "8cded3f6f1324f89016f977bf67263c706f751373ee1054e17ed3e9b710464a1"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q02-kitchen.png",
+      "bytes": 270918,
+      "sha256": "dec1f8913146ecc149b5727dbe90c520c776afc1e8ef5f0508ce03d1a0ac6a58"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q02-kitchen.svg",
+      "bytes": 6379,
+      "sha256": "715fb5120a42f3658bc104c2009f74421a56ce4f09970d9110843718d0ed5b50"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q03-bath-floors.png",
+      "bytes": 280718,
+      "sha256": "83a8b74491ee314459f4ca4a607bb863777bbdb10f51ba2549f4f725d63df1c7"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q03-bath-floors.svg",
+      "bytes": 14718,
+      "sha256": "dfa956de115713bdcfba5b99dccc05b7d7d25e241d8f30cfb1287cab1fa311aa"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q04-master-walls.png",
+      "bytes": 261988,
+      "sha256": "bd43eacf14faef98702955e8b53ab731040d4ef3d1d4590504e3cffe0adddfcd"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q04-master-walls.svg",
+      "bytes": 13512,
+      "sha256": "334f6f81f629f4d3c639399eb2fb7bb070222374405d01c2d3b694eba7fcf524"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q05-guest-walls.png",
+      "bytes": 218407,
+      "sha256": "cda0d37fcc171f199c0f3012b19d03d42b42054eb6c6844e8b8d35387246957f"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q05-guest-walls.svg",
+      "bytes": 4139,
+      "sha256": "42e5655fcbfaf5bd721746d965e8a768cdd81e153bd22cbedc435befa17ef997"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q06-ceilings.png",
+      "bytes": 298200,
+      "sha256": "9778e60876f6c69ed5daa0cbd5fa7beb7fea3aadb0b4a1ddf54b3e6ae4cee760"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/Q06-ceilings.svg",
+      "bytes": 4265,
+      "sha256": "2d73b4b51ed8ded94ece8e3047165c08987b859afbd648a4368d5f89a1b2590d"
+    },
+    {
+      "path": "assets/quantities-2026-09-15/materials.csv",
+      "bytes": 8593,
+      "sha256": "9e0c7780650e67fb07b66f1debf53a946d821e13e010523f901b21a526077ba2"
+    },
+    {
+      "path": "assets/timber-2026-09-15/house-timber.xlsx",
+      "bytes": 17485,
+      "sha256": "bbf16ff8f6f045fe8c8c1d0bcc1f908cc8eb8b6e094fa7262764397c72b85694"
+    },
+    {
+      "path": "assets/timber-2026-09-15/wall-timber.csv",
+      "bytes": 2617,
+      "sha256": "3d63ca0943ee05eae0ed54fbd22c14902d0203b8683663da164924573071856b"
+    },
+    {
+      "path": "assets/timber-2026-09-15/structure-scope.csv",
+      "bytes": 9034,
+      "sha256": "29d8cd5a081868d32cd0d52454d969ceb24e14418ca7eb8f9493f50897357ad8"
+    },
+    {
+      "path": "assets/site-2026-09-16/house-on-plot-v6.png",
+      "bytes": 2365805,
+      "sha256": "850a24b2184c985bfe27514525d20e25cf0e7c9eb827dcd89503f4b4d7beed29"
+    },
+    {
+      "path": "assets/geology-2026-09-25/55-09-26-IG-corrected.pdf",
+      "bytes": 3482138,
+      "sha256": "7a53fac7b09048c008936b7481a1f22b0b0bb2d14b1e5018096cc7a2dfdb8e9d"
+    },
+    {
+      "path": "assets/geology-2026-09-25/GEO-SITE-01-full.png",
+      "bytes": 3585508,
+      "sha256": "1c5d4dc096268272f4b6121a4c07f7ca2847d1fb3d0b236f247d884ad0311119"
+    },
+    {
+      "path": "assets/geology-2026-09-25/GEO-SITE-01-full.svg",
+      "bytes": 1052384,
+      "sha256": "fc07222dd82671edcc958478661bbdc481aa6c1a8136de7912470811a7fbb84f"
+    },
+    {
+      "path": "assets/geology-2026-09-25/GEO-SITE-02-detail.png",
+      "bytes": 3189566,
+      "sha256": "451650eeda34609aca048e32f02a243fc1b5e0fb089d1f1cc768e9fef42f9e90"
+    },
+    {
+      "path": "assets/geology-2026-09-25/GEO-SITE-02-detail.svg",
+      "bytes": 1054248,
+      "sha256": "577ece4803bb2ed560a6d4dbaacd4966fb7a7950fc32eb298d2d6d90324094dc"
+    }
+  ]
+}
