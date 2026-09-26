@@ -1,12 +1,13 @@
 {
   "project": "DBR-P11",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25",
   "technical_revision": "P83 / P81 + P84 / P85",
+  "combined_plan_revision": "COMBINED-2026-09-26-R1",
   "status": "FOR_CLIENT_REVIEW",
   "visuals": 32,
-  "plans": 9,
-  "documents": 176,
+  "plans": 11,
+  "documents": 180,
   "assets": [
     {
       "path": "assets/documents/DBR-P11-P89-whole-house-design.pdf",
@@ -1272,6 +1273,36 @@
       "path": "assets/geology-2026-09-25/GEO-SITE-02-detail.svg",
       "bytes": 1054248,
       "sha256": "577ece4803bb2ed560a6d4dbaacd4966fb7a7950fc32eb298d2d6d90324094dc"
+    },
+    {
+      "path": "assets/combined-2026-09-26/DBR-P11-combined-plan.pdf",
+      "sha256": "c2946bb52d0384489780f11de76a240389bfc364f0ff494c2ad664f7dc2eb656",
+      "bytes": 71367
+    },
+    {
+      "path": "assets/combined-2026-09-26/FULL-01-combined.png",
+      "sha256": "b3d4a1bbed659ec6b04f95d42fc22e623542b3886d30ac38933d1cabf727ead5",
+      "bytes": 311325
+    },
+    {
+      "path": "assets/combined-2026-09-26/FULL-01-combined.svg",
+      "sha256": "3228c745b8bb82340d3dec62d1e8fcfdfe8918e0c2aaf36504ab1d5d38119b3b",
+      "bytes": 27052
+    },
+    {
+      "path": "assets/combined-2026-09-26/FULL-02-plant-option.png",
+      "sha256": "5476f2dc7851fb4798c7f6e7d61314ab675f38115586599dcd703f2beada8252",
+      "bytes": 319657
+    },
+    {
+      "path": "assets/combined-2026-09-26/FULL-02-plant-option.svg",
+      "sha256": "ee095a66348b6f930fd394fd336478f8494f8641bc8e1b8cf553ae77fd649a01",
+      "bytes": 30335
+    },
+    {
+      "path": "assets/combined-2026-09-26/combined-areas.csv",
+      "sha256": "137852e96e41697473e13ed4463b0052f91b5b6dca376e6b8d790b47f60b2e65",
+      "bytes": 1092
     }
   ]
 }
