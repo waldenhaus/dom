@@ -1,7 +1,7 @@
 {
   "project": "DBR-P11",
   "date": "2026-09-28",
-  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE + NORTH-STORE-LOUNGE-2026-09-28-R2 + INTERIOR-2026-09-28-R1",
+  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE + NORTH-STORE-LOUNGE-2026-09-28-R2 + INTERIOR-2026-09-28-R2",
   "technical_revision": "P83 / P81 + P84 / P85",
   "combined_plan_revision": "NORTH-STORE-LOUNGE-2026-09-28-R2",
   "status": "FOR_CLIENT_REVIEW",
@@ -1346,37 +1346,37 @@
     },
     {
       "path": "assets/interior-2026-09-28/DBR-P11-interior-2026-09-28.pdf",
-      "sha256": "5a00c0825dd74b1ad027f05c5d4df2c9829288015470aab998cc3b45eb50dd1e",
-      "bytes": 73195
+      "sha256": "a17074287d52aeed6a03c7930bd564262ac1f0b86320a6e2245da9e71c73a3b9",
+      "bytes": 73119
     },
     {
       "path": "assets/interior-2026-09-28/INT-01-whole-house.png",
-      "sha256": "ec1d8caed4d6a4a10797feae79ca1882797883ea5fae686a7044e2f17ee2ee91",
-      "bytes": 183521
+      "sha256": "13b730503404157d4f5e77907c9d20a62ae975e2debc2d9fb0faa538baf7c23a",
+      "bytes": 185160
     },
     {
       "path": "assets/interior-2026-09-28/INT-01-whole-house.svg",
-      "sha256": "fa632be8a31112abb07b9ee7e111a8e863937e6f23d67f05ef93eea96d162733",
-      "bytes": 28739
+      "sha256": "f3a895238eb1dfb6eb1824933ad4dcf65bd9982a30208f06142fbf1650e821e8",
+      "bytes": 29138
     },
     {
       "path": "assets/interior-2026-09-28/INT-02-master-bath.png",
-      "sha256": "0ef5594088c27cf80230735067edcddb11e8bb0b26dcd54c3c2c3cee40ac224f",
-      "bytes": 154437
+      "sha256": "c25dff03eb2f6595227d53d6b0fd834ab3d3c8803de3498bf2ec994638511438",
+      "bytes": 154458
     },
     {
       "path": "assets/interior-2026-09-28/INT-02-master-bath.svg",
-      "sha256": "924d540975e63e1851d677094ebe56a89fb6342191b5965abd466807903536ca",
+      "sha256": "b9c7733aabda342e26a7dfdb1e4b2b558304dfc349af3d0c88e7a272c2907b6f",
       "bytes": 15497
     },
     {
       "path": "assets/interior-2026-09-28/INT-03-bedroom2.png",
-      "sha256": "362d4f00d20b39685101e0d54d4c0bae3b4026d92bf3af79a2d38e77ebf07c10",
-      "bytes": 130891
+      "sha256": "3aacc2f8b5d567e4a8df3597c0d665638b3cb0a91543a75b795f4dac8e2e0222",
+      "bytes": 130842
     },
     {
       "path": "assets/interior-2026-09-28/INT-03-bedroom2.svg",
-      "sha256": "b4ff5888a9ec2246d08d10b79835fec6f49ec1df5f11d0c96ade6dea4de82da5",
+      "sha256": "f8c335b862e7291cf9c7646211fd0144c34207e98c97b4f11f9c7536bab231d6",
       "bytes": 7747
     },
     {
