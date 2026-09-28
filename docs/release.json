@@ -1,13 +1,13 @@
 {
   "project": "DBR-P11",
   "date": "2026-09-28",
-  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE",
+  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE + NORTH-STORE-LOUNGE-2026-09-28-R2",
   "technical_revision": "P83 / P81 + P84 / P85",
-  "combined_plan_revision": "NORTH-STORE-2026-09-28-R1",
+  "combined_plan_revision": "NORTH-STORE-LOUNGE-2026-09-28-R2",
   "status": "FOR_CLIENT_REVIEW",
   "visuals": 32,
-  "plans": 14,
-  "documents": 183,
+  "plans": 15,
+  "documents": 184,
   "assets": [
     {
       "path": "assets/documents/DBR-P11-P89-whole-house-design.pdf",
@@ -1333,6 +1333,16 @@
       "path": "assets/north-store-2026-09-28/NORTH-STORE-01.svg",
       "sha256": "61fb5e755c5db9633985c42ab838c6b7eb8c76d49f9da2d886f8fe50159d687e",
       "bytes": 4693
+    },
+    {
+      "path": "assets/north-store-2026-09-28/NORTH-STORE-02.png",
+      "sha256": "f0b9e76dac07e47a27242a61950379d3941e02ea76912175e832f0d05855af20",
+      "bytes": 118701
+    },
+    {
+      "path": "assets/north-store-2026-09-28/NORTH-STORE-02.svg",
+      "sha256": "be8937f33da9975ff698ca63af63e6fbf1672377543cffbe5c32b2627805ac84",
+      "bytes": 5334
     }
   ]
 }

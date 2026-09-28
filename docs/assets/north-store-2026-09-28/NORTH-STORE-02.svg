@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1120" role="img" aria-labelledby="title desc">
+<title id="title">Лаундж и кладовая в линию фасадов — план для согласования</title>
+<desc id="desc">Дом 11560 на 8160 мм. Тёплый лаундж расширен к западу до 8700 на 4900 мм: его западная стена совпадает с западной стеной дома X минус 300 мм. Кладовая 2860 на 4900 мм совпадает с восточным фасадом дома X 11260 мм. Северная дверь кладовой символическая.</desc>
+<rect width="1300" height="1120" fill="#f7f5ef"/>
+<text x="80" y="65" font-size="38" font-family="Arial,sans-serif" font-weight="700" fill="#273831">Лаундж и кладовая в линию фасада</text>
+<text x="80" y="102" font-size="19" font-family="Arial,sans-serif" fill="#637169">28.09.2026 · схема для согласования · север сверху · размеры по граничным контурам</text>
+<text x="1080" y="160" font-size="25" font-family="Arial,sans-serif" fill="#273831">С ↑</text>
+<rect x="120" y="468.5" width="751.4" height="530.4" fill="#eee7db" stroke="#263831" stroke-width="7"/>
+<rect x="120" y="150" width="565.5" height="318.5" fill="#d9e8e4" stroke="#256b5c" stroke-width="6"/>
+<rect x="685.5" y="150" width="185.9" height="318.5" fill="#e9d7b4" stroke="#8d5b2d" stroke-width="7"/>
+<line x1="871.4" y1="150" x2="871.4" y2="999" stroke="#256b5c" stroke-width="4" stroke-dasharray="15 8"/>
+<text x="1000" y="595" font-size="21" font-family="Arial,sans-serif" fill="#256b5c">Одна линия фасада</text>
+<text x="1000" y="625" font-size="20" font-family="Arial,sans-serif" fill="#256b5c">X = 11 260 мм</text>
+<line x1="871.4" y1="425" x2="910.4" y2="425" stroke="#a74d3b" stroke-width="3" stroke-dasharray="8 6"/>
+<line x1="910.4" y1="155" x2="910.4" y2="420" stroke="#a74d3b" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="945" y="335" font-size="17" font-family="Arial,sans-serif" fill="#a74d3b">Прежний край</text>
+<text x="945" y="359" font-size="17" font-family="Arial,sans-serif" fill="#a74d3b">навеса +600 мм</text>
+<text x="945" y="383" font-size="17" font-family="Arial,sans-serif" fill="#a74d3b">убирается</text>
+<rect x="756" y="144" width="58" height="13" fill="#f7f5ef"/>
+<text x="701" y="250" font-size="20" font-family="Arial,sans-serif" font-weight="700" fill="#633b20">КЛАДОВАЯ</text>
+<text x="715" y="281" font-size="17" font-family="Arial,sans-serif" fill="#633b20">14,014 м²</text>
+<text x="704" y="314" font-size="16" font-family="Arial,sans-serif" fill="#633b20">без техкомнаты</text>
+<text x="390" y="290" font-size="25" font-family="Arial,sans-serif" font-weight="700" fill="#28594f">ТЁПЛЫЙ ЛАУНДЖ</text>
+<text x="400" y="325" text-anchor="middle" font-size="20" font-family="Arial,sans-serif" fill="#28594f">8700 × 4900 · 42,63 м²</text>
+<text x="425" y="730" font-size="30" font-family="Arial,sans-serif" font-weight="700" fill="#273831">ОСНОВНОЙ ДОМ</text>
+<text x="475" y="770" font-size="20" font-family="Arial,sans-serif" fill="#273831">11 560 × 8160</text>
+<line x1="120" y1="132" x2="685.5" y2="132" stroke="#263831" stroke-width="2"/>
+<line x1="120" y1="125" x2="120" y2="139" stroke="#263831" stroke-width="2"/>
+<line x1="685.5" y1="125" x2="685.5" y2="139" stroke="#263831" stroke-width="2"/>
+<text x="365" y="123" font-size="18" font-family="Arial,sans-serif" fill="#273831">8700</text>
+<text x="220" y="218" font-size="18" font-family="Arial,sans-serif" fill="#28594f">западная стена X = −300 мм — вровень с домом</text>
+<line x1="685.5" y1="132" x2="871.4" y2="132" stroke="#263831" stroke-width="2"/>
+<line x1="685.5" y1="125" x2="685.5" y2="139" stroke="#263831" stroke-width="2"/>
+<line x1="871.4" y1="125" x2="871.4" y2="139" stroke="#263831" stroke-width="2"/>
+<text x="750" y="123" font-size="18" font-family="Arial,sans-serif" fill="#273831">2860</text>
+<line x1="927" y1="150" x2="927" y2="468.5" stroke="#263831" stroke-width="2"/>
+<line x1="919" y1="150" x2="935" y2="150" stroke="#263831" stroke-width="2"/>
+<line x1="919" y1="468.5" x2="935" y2="468.5" stroke="#263831" stroke-width="2"/>
+<text x="940" y="270" font-size="19" font-family="Arial,sans-serif" fill="#273831">4900</text>
+<text x="705" y="367" font-size="16" font-family="Arial,sans-serif" fill="#633b20">дверь с севера ↑</text>
+<text x="705" y="392" font-size="15" font-family="Arial,sans-serif" fill="#633b20">размер/створка TBC</text>
+<rect x="65" y="1030" width="1170" height="58" rx="8" fill="#e8e5da"/>
+<text x="84" y="1055" font-size="17" font-family="Arial,sans-serif" fill="#273831">Лаундж +300 мм к озеру. Тепловой режим кладовой, кровля, основание и дверь уточняются.</text>
+<text x="84" y="1078" font-size="16" font-family="Arial,sans-serif" fill="#69736d">Западный фасад лаунджа X = −300 мм; восточный фасад кладовой X = 11 260 мм. Не для строительства.</text>
+</svg>
