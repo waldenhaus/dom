@@ -1,13 +1,13 @@
 {
   "project": "DBR-P11",
   "date": "2026-09-28",
-  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE + NORTH-STORE-LOUNGE-2026-09-28-R2",
+  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE + NORTH-STORE-LOUNGE-2026-09-28-R2 + INTERIOR-2026-09-28-R1",
   "technical_revision": "P83 / P81 + P84 / P85",
   "combined_plan_revision": "NORTH-STORE-LOUNGE-2026-09-28-R2",
   "status": "FOR_CLIENT_REVIEW",
   "visuals": 32,
-  "plans": 15,
-  "documents": 184,
+  "plans": 18,
+  "documents": 189,
   "assets": [
     {
       "path": "assets/documents/DBR-P11-P89-whole-house-design.pdf",
@@ -1343,6 +1343,46 @@
       "path": "assets/north-store-2026-09-28/NORTH-STORE-02.svg",
       "sha256": "be8937f33da9975ff698ca63af63e6fbf1672377543cffbe5c32b2627805ac84",
       "bytes": 5334
+    },
+    {
+      "path": "assets/interior-2026-09-28/DBR-P11-interior-2026-09-28.pdf",
+      "sha256": "5a00c0825dd74b1ad027f05c5d4df2c9829288015470aab998cc3b45eb50dd1e",
+      "bytes": 73195
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-01-whole-house.png",
+      "sha256": "ec1d8caed4d6a4a10797feae79ca1882797883ea5fae686a7044e2f17ee2ee91",
+      "bytes": 183521
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-01-whole-house.svg",
+      "sha256": "fa632be8a31112abb07b9ee7e111a8e863937e6f23d67f05ef93eea96d162733",
+      "bytes": 28739
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-02-master-bath.png",
+      "sha256": "0ef5594088c27cf80230735067edcddb11e8bb0b26dcd54c3c2c3cee40ac224f",
+      "bytes": 154437
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-02-master-bath.svg",
+      "sha256": "924d540975e63e1851d677094ebe56a89fb6342191b5965abd466807903536ca",
+      "bytes": 15497
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-03-bedroom2.png",
+      "sha256": "362d4f00d20b39685101e0d54d4c0bae3b4026d92bf3af79a2d38e77ebf07c10",
+      "bytes": 130891
+    },
+    {
+      "path": "assets/interior-2026-09-28/INT-03-bedroom2.svg",
+      "sha256": "b4ff5888a9ec2246d08d10b79835fec6f49ec1df5f11d0c96ade6dea4de82da5",
+      "bytes": 7747
+    },
+    {
+      "path": "assets/interior-2026-09-28/clearances-current.csv",
+      "sha256": "fea50f85fbbf6cec583126a95097e4f446af8b8712cd1e24e4db3de81689a782",
+      "bytes": 2905
     }
   ]
 }
