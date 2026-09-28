@@ -1,13 +1,13 @@
 {
   "project": "DBR-P11",
-  "date": "2026-09-26",
-  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25",
+  "date": "2026-09-28",
+  "design_revision": "P89 + P90 + WEB-14.09 + WEB-WET-SPACE-RAIN-15.09 + CANOPY-JUNCTION-REVIEW + GEO-SITE-2026-09-25 + NORTH-STORE-2026-09-28-R1 + GUEST-PLANT-V6-CHOICE",
   "technical_revision": "P83 / P81 + P84 / P85",
-  "combined_plan_revision": "COMBINED-2026-09-26-R1",
+  "combined_plan_revision": "NORTH-STORE-2026-09-28-R1",
   "status": "FOR_CLIENT_REVIEW",
   "visuals": 32,
-  "plans": 11,
-  "documents": 180,
+  "plans": 14,
+  "documents": 183,
   "assets": [
     {
       "path": "assets/documents/DBR-P11-P89-whole-house-design.pdf",
@@ -1303,6 +1303,36 @@
       "path": "assets/combined-2026-09-26/combined-areas.csv",
       "sha256": "9c720c698c17c7984b9d7ff8e60c40cdee3ac2620ed5c9818da8c5ed63b4da6f",
       "bytes": 1214
+    },
+    {
+      "path": "assets/guest-plant-2026-09-28/V6-plan.png",
+      "sha256": "cad39c276605b1cc87862ac1f0a03a16f18c885a762d5d9e52bbb37251b0ddbf",
+      "bytes": 528155
+    },
+    {
+      "path": "assets/guest-plant-2026-09-28/V6-plan.svg",
+      "sha256": "fcdfb2973c0a6f83f23153a255464aaf4e881de92647a0f11978c4eee44f044a",
+      "bytes": 14594
+    },
+    {
+      "path": "assets/guest-plant-2026-09-28/V6-elevation.png",
+      "sha256": "2ba725f982d1d9365ea17b50a79358ad6c7c9da6890260b17c35e803e5ed456e",
+      "bytes": 434541
+    },
+    {
+      "path": "assets/guest-plant-2026-09-28/V6-elevation.svg",
+      "sha256": "821d835f1765abae7346cdb786956758f638997e9006092d70def0eabee0b6ac",
+      "bytes": 12316
+    },
+    {
+      "path": "assets/north-store-2026-09-28/NORTH-STORE-01.png",
+      "sha256": "368d2b0b34c7e0618844f96780df6324455ccc8cf9aeb0ee2431d1c212d06337",
+      "bytes": 92580
+    },
+    {
+      "path": "assets/north-store-2026-09-28/NORTH-STORE-01.svg",
+      "sha256": "61fb5e755c5db9633985c42ab838c6b7eb8c76d49f9da2d886f8fe50159d687e",
+      "bytes": 4693
     }
   ]
 }
